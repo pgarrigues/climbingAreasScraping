@@ -1,0 +1,243 @@
+spot,pays,region,type,hauteur,orientation,nombre de voies,cotations
+Ablon,France,Haute-Savoie,Falaise,80 m,Sud-Est,400 voies,De 4b à 8b
+Ailefroide,France,Hautes-Alpes,"Bloc, Falaise",4 m (blocs) à 400 m (voies),Toutes,500 voies,De 3a à 8a
+Annot,France,Alpes-de-Haute-Provence,"Bloc, Falaise",25 m,Toutes,400 voies,De 4c à 8c+
+Antalya,Turquie,,Falaise,NC,NC,NC,De 3a à 8c
+Arudy,France,Pyrénées-Atlantiques,Falaise,55 m,Sud-Ouest,230 voies,De 3c à 8b
+Autoire,France,Lot,Falaise,5 à 25 m,"Est, Sud-Est",271 voies,De 5a à 8b
+Badami,Inde,,Falaise,20 à 30 m,Toutes,120 voies,De 5c+ à 8c
+Balme de Yenne,France,Savoie,Falaise,20 à 60 m,Nord,70 voies,De 6b à 9a
+Bavella,France,Corse-du-Sud,Falaise,600 m,Toutes,200 voies,De 3c à 8b
+Bergholtz,France,Haut-Rhin,Falaise,25 m,Est,81,De 4c à 8a
+Bionnassay,France,Haute-Savoie,Falaise,40 m,"Ouest, Sud-Ouest",50 voies,De 5c à 9a
+Blue Mountains,Australie,,Falaise,NC,NC,NC,De NC à NC
+Boven,Afrique du Sud,,Falaise,35 m,Toutes,500 voies,De 3a à 8b
+Buoux,France,Vaucluse,Falaise,70 m,Toutes,500 voies,De 4b à 8c+
+Cantobre,France,Aveyron,Falaise,20 à 40 m,"Sud, Sud-Est, Est",55 voies,De 5c à 9a
+Cap Dramont,France,Var,Falaise,8 à 30 m,Toutes,50 voies,De 3a à 7c
+Castillon,France,Alpes-Maritimes,Falaise,40 m,Sud-Ouest,55 voies,De 6b à 8c+
+Céüse,France,Hautes-Alpes,Falaise,130 m,Toutes,400 voies,De 5a à 9a+
+Chamiers,France,Ardèche,Bloc,5 m,Toutes,25,De 4b à 6a+
+Cimaï,France,Var,Falaise,20 à 80 m,Sud-Est,230 voies,De 4a à 8b+
+Cirque d’Archiane,France,Drôme,Falaise,200 à 400 m,"Sud-Ouest, Sud, Est",50 voies,De 5b à 7b
+Claret,France,Hérault,Falaise,30 m,Sud,Une bonne centaine,De 5c à 8c
+Clemont,France,Doubs,Falaise,10 à 25 m,Plein Sud,70 voies,De 4c à 8c
+Clisson,France,Loire-Atlantique,Bloc,2 à 5 m,Toutes,100 passages,De 3a à 7a
+Ablon,France,Haute-Savoie,Falaise,80 m,Sud-Est,400 voies,De 4b à 8b
+Ailefroide,France,Hautes-Alpes,"Bloc, Falaise",4 m (blocs) à 400 m (voies),Toutes,500 voies,De 3a à 8a
+Annot,France,Alpes-de-Haute-Provence,"Bloc, Falaise",25 m,Toutes,400 voies,De 4c à 8c+
+Antalya,Turquie,,Falaise,NC,NC,NC,De 3a à 8c
+Arudy,France,Pyrénées-Atlantiques,Falaise,55 m,Sud-Ouest,230 voies,De 3c à 8b
+Autoire,France,Lot,Falaise,5 à 25 m,"Est, Sud-Est",271 voies,De 5a à 8b
+Badami,Inde,,Falaise,20 à 30 m,Toutes,120 voies,De 5c+ à 8c
+Balme de Yenne,France,Savoie,Falaise,20 à 60 m,Nord,70 voies,De 6b à 9a
+Bavella,France,Corse-du-Sud,Falaise,600 m,Toutes,200 voies,De 3c à 8b
+Bergholtz,France,Haut-Rhin,Falaise,25 m,Est,81,De 4c à 8a
+Bionnassay,France,Haute-Savoie,Falaise,40 m,"Ouest, Sud-Ouest",50 voies,De 5c à 9a
+Blue Mountains,Australie,,Falaise,NC,NC,NC,De NC à NC
+Boven,Afrique du Sud,,Falaise,35 m,Toutes,500 voies,De 3a à 8b
+Buoux,France,Vaucluse,Falaise,70 m,Toutes,500 voies,De 4b à 8c+
+Cantobre,France,Aveyron,Falaise,20 à 40 m,"Sud, Sud-Est, Est",55 voies,De 5c à 9a
+Cap Dramont,France,Var,Falaise,8 à 30 m,Toutes,50 voies,De 3a à 7c
+Castillon,France,Alpes-Maritimes,Falaise,40 m,Sud-Ouest,55 voies,De 6b à 8c+
+Céüse,France,Hautes-Alpes,Falaise,130 m,Toutes,400 voies,De 5a à 9a+
+Chamiers,France,Ardèche,Bloc,5 m,Toutes,25,De 4b à 6a+
+Cimaï,France,Var,Falaise,20 à 80 m,Sud-Est,230 voies,De 4a à 8b+
+Cirque d’Archiane,France,Drôme,Falaise,200 à 400 m,"Sud-Ouest, Sud, Est",50 voies,De 5b à 7b
+Claret,France,Hérault,Falaise,30 m,Sud,Une bonne centaine,De 5c à 8c
+Clemont,France,Doubs,Falaise,10 à 25 m,Plein Sud,70 voies,De 4c à 8c
+Clisson,France,Loire-Atlantique,Bloc,2 à 5 m,Toutes,100 passages,De 3a à 7a
+Col de la Colombière,France,Haute-Savoie,Falaise,20 à 80 m,Sud-Est,120 voies,De 4c à 7c
+Collias,France,Gard,Falaise,20 à 60 m,Plein Sud,200 voies,De 3b à 8b+
+Cormot,France,Bourgogne,Falaise,35 m,Toutes,280 voies,De 3c à 9a
+Côté Court,France,Drôme,Falaise,NC,Plein sud,32,De 6c à projet
+Courchon (Verdon),France,Alpes-de-Haute-Provence,Falaise,35 m,"Sud, Sud-Ouest",80 voies,De 6a à 8b+
+Couyrac,France,Tarn-et-Garonne,Falaise,10 à 70 m,"Est, sud-est",70,De 5b à 8a
+Crenans,France,Jura,Falaise,NC,Ouest,Environ 60 voies,De 6a à 8b
+D.J. Face,France,Isère,Falaise,30 à 60 m,"Nord-Est, Est",Plus d'une centaine,De 6a+ à 8c
+Dalle de Gleize,France,Hautes-Alpes,Falaise,300 m,Sud-est,NC,De 4+ à 6a+
+El Chonta,Mexique,,Falaise,180 m,Toutes,100 voies,De 6c à 9a+
+Entraigues,France,Isère,Bloc,7 m,Toutes,84,De 2 à 8a+
+Entraygues,France,Hautes-Alpes,Falaise,20 m,Nord,50 voies,De 6a à 9a
+Eyroles,France,Drôme,Falaise,35 m,"Sud-OUest, Nord-Est",400 voies,De 4+ à 8+
+Falaise de Correns (Châteauvert),France,Var,Falaise,20 à 40 m,Toutes,200 voies sur 36 secteurs,De 3a à 8b
+Falaise d’Eson (Pont-de-Barret),France,Drôme,Falaise,10 à 35 m,"Sud, Sud-Ouest",Une centaine,De 5a à 7c+
+Fauzan,France,Hérault,Falaise,15 à 25 m,Sud,250 voies,De 5b à 8a
+Fétide Beach,France,Vaucluse,Falaise,25 m,Nord,30 couennes,De 6c à 9a
+Fixin,France,Bourgogne,Falaise,5 à 35 m,Sud,250 voies,De 3a à 8c
+Flaine,France,Haute-Savoie,Falaise,20 à 40 m,"Sud, Sud-Est",200 voies,De 3c à 8b
+Fontainebleau,France,Seine-et-Marne,Bloc,Toutes les tailles !,Toutes,Des milliers de passages,De 3a à 8c+
+Genat,France,Ariège,Falaise,35 m,"Sud-Ouest, Sud, Sud-Est",Une soixantaine,De 5c à 8b+
+Getu,Chine,,Falaise,240 m,Toutes,250 voies,De 5c à 9a
+Glandasse,France,Drôme,Falaise,200 à 450 m,Sud-Ouest,30 voies,De 6a à 7b
+Gorges de L'Ardèche,France,Ardèche,Falaise,30 à 50 m,Sud,50 voies,De 7a à 8b+
+Gorges de La Jonte,France,Lozère,Falaise,155 m,Toutes,300 voies,De 4c à 8c
+Gorges du Blavet,France,Var,Falaise,95 m,Toutes,100 voies,De 3a à 8b+
+Gorges du Tarn,France,Lozère,Falaise,NC,Toutes,700 voies,De 3a à 8c
+Grotte du Brotsch,France,Bas-Rhin,Falaise,20 à 25 m,Sud-Ouest,50 voies,De 6a à 8b+
+Grottes de Sare,France,Pyrénées-Atlantiques,Falaise,10 à 15 m,Sud,Une cinquentaine,De 4a à 8a
+Gueberschwihr,France,Haut-Rhin,"Bloc, Falaise",30 m,Sud-Est,50 blocs,De 4a à 7c+
+Kalymnos,Grèce,,Falaise,NC,Toutes,1700 voies,De 4+ à 9a+
+Kerlouan,France,Finistère,Bloc,10 m,Toutes,plus de 1000,De 3a à 8a
+Krappenfels,France,Moselle,Falaise,20 m,Sud-Ouest,Une centaine,De 4c à 7b+
+L'hortus,France,Hérault,Falaise,90 à 130 m,Sud,120 voies,De 5b à 8b
+L'Obiou,France,Isère,Falaise,340 m,Est,NC,De 5a à 6b+
+La Carrière du Maupas,France,Vaucluse,Falaise,30 à 35 m,"Nord, Nord-Est",20 voies,De 7a à 8b+
+La Chalp,France,Isère,Falaise,15 à 25 m,"Est, Sud-Est",41,De 5b à 8b
+La Chambotte,France,Savoie,Falaise,10 à 90 m,"Ouest, Sud-Ouest",300 voies,De 4b à 8c
+La Clape,France,Aude,Falaise,20 m,Toutes,350 voies,De NC à 7c+
+La Combe Obscure,France,Vaucluse,Falaise,35 à 40 m,Sud,Une centaine,De 4a à 7c+
+La Concession,France,Vaucluse,Falaise,25 m,Nord,52 voies,De 5b à 8c
+La Croix,France,Tarn-et-Garonne,Falaise,de 15 à 80 m,Ouest,60,De 4a à 8b+
+La Dalle de Chantelouve,France,Isère,Falaise,20 à 80 m,Est,17,De 3a à 6a+/b
+La Dent de La Rancune,France,Auvergne,Falaise,90 m,Toutes,30 voies,De 4c à 8a
+La Dibona,France,Isère,Falaise,300 à 400 m,Toutes,20 voies,De 4a à 8a
+La Falaise de Cohons,France,Haute-Marne,Falaise,20 à 25 m,Sud,45 voies,De 4a à 8a
+La Gittaz,France,Savoie,Falaise,10 à 35 m,Sud-Ouest,27 voies,De 6a à 8c
+La Goulandière,France,Isère,Falaise,NC,"Sud-est. En été, à l’ombre l’après-midi à partir de 14 h.",49,De NC à NC
+La Grande Falaise (Freissinières),France,Hautes-Alpes,Falaise,150 m,"Sud, Sud-Ouest",100 voies,De 5a à 8c
+La Hottée du Diable,France,Marne,Bloc,3 à 8 m,Toutes,100 voies,De 3a à 8a
+La Madeleine,France,Tarn-et-Garonne,,10 à 20 m,Sud,50,De 4a à 8a
+La Martinswand,France,Haut-Rhin,Falaise,80 m,Sud-Est,100 voies,De 3c à 8b
+La Mâture,France,Pyrénées-Atlantiques,Falaise,40 à 200 m,Sud,130 voies,De 4c à 8a+
+La Plage,France,Drôme,Falaise,30 à 35 m,"Sud-est. La falaise prend le soleil le matin, et passe à l’ombre vers 14-15h en demi-saison. On ne viendra que l’après-midi quand il fait chaud, mais si le temps est couvert et la température raisonnable, on peut venir un peu plus tôt dans la journée.",33,De 7a+ à 8c
+La Pointe Percée,France,Haute-Savoie,Falaise,250 m,Toutes,30 voies,De 5c à 7b
+La Presqu'île,France,Drôme,Falaise,15 à 35 m,Est,52 voies,De 6a à 8c
+La Réserve,France,Isère,Falaise,NC,Sud-est ou sud sud-ouest selon secteurs,23,De 6a à 7c+
+La Restonica,France,Haute-Corse,Falaise,40 m,Toutes,Plus de 200 voies,De 4a à 8a
+La Roche Bernard,France,Haute-Marne,Falaise,10 à 15 m,Sud-Ouest,37 voies,De 4b à 7b+
+La Rochette,France,Hautes-Alpes,Falaise,25m,sud,50 voies,De 4a à 7b
+La Roque,France,Lozère,Falaise,10 à 50 m,NC,100 voies,De 3a à 7b
+La Taupinière (Tamée),France,Drôme,Falaise,NC,Est. À l’ombre à partir de 10-11h en été.,27,De NC à NC
+La Tour sur Tinée,France,Alpes-Maritimes,Falaise,150 m,"est, ouest",une centaine,De 6a à 7c
+La Tournette,France,Haute-Savoie,Falaise,220 m,Ouest,40 voies,De 5c à 7b
+La Turbie,France,Alpes-Maritimes,Falaise,120 m,Toutes,400 voies,De 3c à 8c
+Le Baou des 4 Ouros,France,Var,Falaise,30 m,Toutes,500 voies,De 2a à 8b
+Le Barring (Bavella),France,Corse-du-Sud,Falaise,45 m,Ouest,18 voies,De 5c à 8c
+Le Cap Canaille,France,Bouches-du-Rhône,Falaise,240 m,Ouest,50 voies,De 3+ à 7b
+Le Capucin,France,Auvergne,Bloc,60 m,"Ouest, Est, Nord",53 passages,De 4c à 8c
+Le Caroux,France,Hérault,Falaise,350 m,Toutes,400 voies,De 3a à 7c
+Le Chaos du Claps,France,Drôme,"Bloc, Falaise",280 m,Toutes,50 voies,De 3b à 7a
+Le Falkenfels,France,Moselle,Falaise,10 à 30 m,Sud,55 voies,De 5+ à 8b
+Le Foron,France,Haute-Savoie,Falaise,10 à 30 m,Ouest,40 voies,De 6a+ à 8b
+Le Fournel,France,Hautes-Alpes,Falaise,130 m max,"Ouest, Sud-Ouest, Nord, Est",100 voies,De 4b à 9a
+Le Fugeret (Annot),France,Alpes-de-Haute-Provence,Bloc,10 à 12 m,Toutes,Environs 1600,De débutant à expert
+Le Gauxberg,France,Bas-Rhin,Falaise,25 m,Sud,70 voies,De 6a à 9a
+Le Grand Sablat,France,Isère,Bloc,7 m,Toutes,60 passages,De 6a à 8c
+Le Grand Vallon (Roquevaire),France,Bouches-du-Rhône,Falaise,45 m,Toutes,140 voies,De 3c à 9a
+Le Joncas,France,Hérault,Falaise,70 m,"Sud-Ouest, Nord-Est",70 voies,De 4b à 8a
+Le Kronthal,France,Bas-Rhin,Falaise,30 m,Sud,130 voies,De 5a à 8b
+Le Moulin de Bertrand,France,Hérault,Falaise,25 m,Sud-Est,30 voies,De 4b à 8b
+Le Piéroux,France,Hautes-Alpes,Falaise,250 m,Ouest,10,De 3 à 6c+
+Le Pont du Prêtre,France,Isère,Falaise,25 à 30 m,Ouest,48,De 5a à 6b+
+Le précipice de Corbière,France,Drôme,Falaise,15 à 40 m,Ouest-Est,34,De 4a à 8
+Le Prieuré (Lodève),France,Hérault,Bloc,7 m,toutes,300 pasages,De 3a à 8b
+Le Quié de Sinsat,France,Ariège,Falaise,15 à 400 m,Sud-Est,200 voies,De 3c à 7c
+Le Roc d'Anglars,France,Tarn-et-Garonne,Falaise,de 30 à 80 m,nord,170,De 4c à 8b+
+Le rocher Crespin,France,Drôme,Falaise,35 m,Nord,34,De 5c à 9a
+Le Rocher de 11 heures,France,Isère,Falaise,15 à 30 m,Sud-Ouest,25,De 4a à 6b+
+Le Rocher de Gonson,France,Isère,Falaise,120 à 150 m,Plein ouest,5,De NC à NC
+Le Rocher du Sphinx,France,Côtes-d’Armor,Falaise,15 m,"Nord, Ouest",20 voies,De 3c à 6a
+Le Salève,France,Haute-Savoie,"Bloc, Falaise",7 m pour les blocs. 20 à 180 m pour la falaise,Toutes,450 voies,De 3a à 8a
+Le Saussois,France,Yonne,Falaise,50 m,Sud,200 voies,De 4c à 8c
+Le Teillon (Verdon),France,Alpes-de-Haute-Provence,Falaise,200 m,Ouest,30 voies,De 6a à 8b
+Le Thaurac,France,Hérault,Falaise,30 m,"Ouest, Sud-Ouest",400 voies,De 4b à 8b
+Le Verdon,France,Alpes-de-Haute-Provence,Falaise,250 à 350 m,Toutes,1500 voies,De Tous niveaux à Tous niveaux
+Lérouville,France,Meuse,Falaise,8 à 30 m,Sud-Ouest,90 voies,De 4c à 8b
+Les 3 Becs,France,Drôme,Falaise,250 à 350 m,Nord-Est à Nord Ouest,20 voies,De 5b à 7b
+Les Aiguilles Rouges,France,Haute-Savoie,Falaise,130 à 250 m,Toutes,Une trentaine,De 5b à 6b
+Les Basses Gorges,France,Lozère,,35 m,Sud-Est,-,De - à -
+Les Bossons,France,Haute-Savoie,Bloc,4 à 5 m,Toutes,25 blocs pour 150 passages,De 3c à 7b
+Les Calanques,France,Bouches-du-Rhône,Falaise,10 à 100 m,Toutes,3000 voies,De 3a à 9a
+Les Cerces,France,Hautes-Alpes,Falaise,300 m,Toutes,130 voies,De 5c à ED
+Les Dentelles de Montmirail,France,Vaucluse,Falaise,90 m par endroit,"Nord, Sud",800 voies,De 3c à 8b
+Les Dents de Lanfon,France,Haute-Savoie,Falaise,250 m,Sud-Ouest,20 voies,De 5+ à 7b
+Les Eaux-Claires,France,Charente,"Bloc, Falaise",10 à 18 m,Sud principalement,400 voies,De 4a à 9a
+Les Falloises de Vertus,France,Marne,Falaise,25 m,Est,130 voies,De 3a à 7c
+Les Fiz,France,Haute-Savoie,Falaise,200 à 600 m,"Sud, Sud-Est",15 voies,De 5b à 7a+
+Les Gicons,France,Hautes-Alpes,Falaise,30 m,"Sud, sud-ouest",60,De 3c à 8a
+Les Gillardes,France,Isère,Falaise,550 m,Ouest,22,De 6a+ à 7a+
+Les Gorges du Loup,France,Alpes-Maritimes,Falaise,45 m,Ouest,70 voies,De 6a à 9a
+Les Herbez,France,Alpes-de-Haute-Provence,Falaise,60 m,"Sud, Sud-Est et Ouest",160,De 4 à 8b+/c
+Les Lames,France,Isère,Falaise,35 m,Sud-Ouest,Une centaine,De 4c à 8b
+Les Petits Goulets,France,Drôme,Falaise,80 m à 200 m,Orienté Sud-Est. À l’ombre l’après-midi.,103,De 4 à 8c+
+Les Pinets,France,Isère,Falaise,20 à 30 m,"Est, Sud",20,De 3a à 6a+
+Les Roches Qui Dansent,France,Drôme,Bloc,8 m,Toutes,"21 blocs, 90 pasages",De 4a à 8a
+Les Sucettes de Borne,France,Drôme,Falaise,100 m,"Nord, Sud",60,De 5a à 8a+
+Les Traverses,France,Hautes-Alpes,Falaise,35 m,"Sud, Sud-Ouest",Plus de 50,De 4b à 8b
+Les Trois Rivières (Entrechaux),France,Vaucluse,Falaise,30 m,"Nord, Nord-Ouest",Une centaine,De 6a à 8b/c
+Llo,France,Pyrénées-Orientales,Falaise,10 à 30 m,"Sud, Sud-Ouest",40 voies,De 4a à 8a
+L’auberge Espagnole,France,Drôme,Falaise,35 m,Toutes,60 voies,De 5a à 8b+
+Manjo Carn,France,Tarn-et-Garonne,Falaise,15 à 90 m,"nord, nord-ouest",-,De 4b à 9a
+Margalef,Espagne,,Falaise,NC,Toutes,500 voies,De 4a à 9b
+Marocaz,France,Savoie,Falaise,15 à 30 m,"Est, Sud-Est",54 voies,De 6a+ à 8b+
+Médonnet,France,Haute-Savoie,Bloc,5 m,Toutes,250 passages,De 4b à 8a
+Mévouillon,France,Drôme,Falaise,35 m,"Est, ouest",60,De 4a à 8b
+Millennium,Italie,,Falaise,60 m,Est,100 voies,De 6a à 8b
+Mollans sur Ouvèze,France,Vaucluse,Falaise,de 10 à 35 m,"Nord, Nord-Est, Sud, Sud-Est",150,De 5a à 9b
+Mont Aiguille,France,Isère,Falaise,150 m à 320 m,NC,37,De PD à ED+
+Mont-Dauphin,France,Hautes-Alpes,Falaise,40m,Est,60 voies,De 6a à 8a+
+Mouriès,France,Bouches-du-Rhône,Falaise,20 à 35 m,"Sud, Nord",Plus de 200 voies,De 3a à 8b
+Notre-Dame du Cros,France,Aude,Falaise,85 m,"Ouest, Sud-Est",120 voies,De 4a à 7c+
+Omblèze,France,Drôme,Falaise,15 à 200 m,"Sud, Sud-Est",500 voies,De 3a à 9a
+Orgon,France,Bouches-du-Rhône,Falaise,35 à 75 m,"Est, Nord-Est",350 voies,De 3b à 9a
+Orlu,France,Ariège,Bloc,8 à 9 m,Toutes,Plus de 50 passages,De 4c à 8a
+Orpierre,France,Hautes-Alpes,Falaise,190 m,Toutes,500 voies,De 3a à 8c
+Peillon,France,Alpes-Maritimes,Falaise,80 m,"Sud, Sud-Est",100 voies,De 4c à 8c
+Pen-Hir,France,Finistère,Falaise,80 m,Ouest,Au moins 130,De 3c à 6a
+Pène Haute,France,Hautes-Pyrénées,Falaise,50 à 100 m,"Est, Sud",200 voies,De 4c à 8a
+Pic de Bure,France,Hautes-Alpes,Falaise,600 m,Est,21,De 4b à 6b
+Pic du Perthus,France,Vaucluse,Falaise,50 à 80 m,"Est, Sud-Est",10 voies,De 5c à 6b+
+Pic Saint-Loup,France,Hérault,Falaise,40 m,Nord,30 voies,De 7a à 9a
+Pierre-Lys,France,Aude,Falaise,300 m,Ouest,une centaine,De 4a à 8a
+Ploumanac’h,France,Côtes-d’Armor,Bloc,10 à 11 m,Toutes,Environ 110 passages,De 5b à 8a
+Pont d'Espagne,France,Hautes-Pyrénées,Falaise,10 à 25 m,Toutes,60 voies,De 3b à 8a
+Pont de Camps,France,Pyrénées-Atlantiques,Bloc,8 m,Toutes,170 passages,De 3a à 7c
+Pont Saint Nicolas,France,Gard,Falaise,15 m,Sud-Est,55 voies,De 4b à 8b
+Presles,France,Isère,Falaise,35 à 300 m,Sud,300 voies,De 4a+ à 8b
+Punta di Capineru (Pianotolli di Caldarello),France,Corse-du-Sud,Bloc,4 à 5 m,Toutes,Beaucoup,De 3a à 7c+
+Puy-Saint-Vincent,France,Hautes-Alpes,Falaise,40m,Nord,45 Voies,De 6b+ à 8b+
+Quinson (Verdon),France,Alpes-de-Haute-Provence,Falaise,35 m,Sud-Ouest,210 voies,De 3b à 8b
+Red River Gorge,États Unis,,Falaise,NC,NC,Des milliers,De NC à NC
+Rioupéroux,France,Isère,Bloc,8 m,Toutes,500 pasages,De 3+ à 8c
+Rochefort-du-Gard,France,Gard,Falaise,10 à 40 m,Toutes,130 voies,De 3b à 7a+
+Rocher du Midi,France,Isère,Falaise,300 m,Est,20 voies,De 6c à 8b
+Rocher du Saint-Julien (Buis-Les-Baronnies),France,Drôme,Falaise,125 m,"Sud-Ouest, Sud, Nord",260 voies,De 3b+ à 7b
+Romeyer,France,Drôme,Falaise,25 et 50 m,"Ouest, Sud-Ouest",120 voies,De 4c à 8c
+Rurey,France,Doubs,Falaise,25 à 30 m,Toutes,une centaine,De 4c à 8c
+Russan,France,Gard,Falaise,45 m,"Sud-Ouest, Sud, Sud-Est",200 voies,De 4b à 8c
+Saint Mihiel,France,Meuse,Falaise,10 à 30 m,Ouest,60 voies,De 4a à 8c+
+Saint Pancrasse,France,Isère,Falaise,20 à 25 m,"Sud, Sud-Est",250 voies,De 4c à 8c
+Saint-Antonin-Noble-Val (Le Capucin),France,Tarn-et-Garonne,Falaise,80 m,"Sud-Est, Sud",210 voies,De 4c à 8b
+Saint-Bauzille de Montmel,France,Hérault,Falaise,25 m,Sud,215 voies,De 3a à 8b+
+Saint-Cézaire,France,Alpes-Maritimes,Falaise,35 m,"Ouest, Sud, Nord",100 voies,De 5b à 8b
+Saint-Florent,France,Haute-Corse,Falaise,20 à 25 m,"Nord, Est",7 voies,De 6c à 8b
+Saint-Géry,France,Lot,Falaise,20 à 55 m,Sud-Est,100 voies,De 4c à 8c
+Saint-Guilhem-le-Désert,France,Hérault,Falaise,200 m,"Nord, Sud-Est",Une centaine,De 5c à 8c+
+Saint-Jean de Buèges,France,Hérault,Falaise,80 m,"Ouest, Sud",30 voies,De 5c à 7b
+Saint-Léger du Ventoux,France,Vaucluse,Falaise,40 m,Toutes,500 voies,De 6a à 8c
+Saint-Sauves,France,Auvergne,Falaise,20 à 30 m,Toutes,39 voies,De 5c à 8b+
+Sainte-Croix,France,Drôme,Falaise,20 m,Sud,25 voies,De 7a à 8b
+Sainte-Victoire,France,Bouches-du-Rhône,Falaise,40 m,"Ouest, Sud-Ouest",200 voies,De 3b à 9a+
+Saoû,France,Drôme,Falaise,30 à 300 m,Toutes,750 voies,De 3b à 8b
+Serre Châtelard,France,Drôme,Falaise,110 à 180 m,Sud-Est,30,De NC à NC
+Seynes,France,Gard,Falaise,20 à 40 m,Sud,300 voies,De 3b à 8c
+Siurana,Espagne,,Falaise,90 m,Toutes,900 voies,De 4a à 9b
+Smith Rock,États Unis,,Falaise,111 m,Toutes,1000 voies,De Tous niveaux à NC
+Suberpène,France,Hautes-Pyrénées,Falaise,40 à 200 m,Sud,150 voies,De 5a à 8b
+Suesca,Colombie,,Falaise,NC,Toutes,200 voies,De 4 à 8b+
+Taghia,Maroc,,Falaise,Jusqu'à 800 m,Toutes,100 voies,De 6a à 8b
+Targasonne,France,Pyrénées-Orientales,Bloc,10 m,Toutes,400 passages,De 4+ à 6b
+Tautavel,France,Pyrénées-Atlantiques,Falaise,20 m,"Ouest, Sud-Est, Est",300 voies,De 3a à 8b
+Tournoux,France,Hautes-Alpes,Falaise,40 m,"Sud, Nord",100 voies,De 4c à 8c
+Tousaus,France,Hautes-Pyrénées,Falaise,20 à 35 m,Nord,30 voies,De 6c à 8b
+Trenze,France,Lozère,Falaise,entre 15 et 200 m,"sud, sud-ouest",32,De 3c à 7b
+Troubat,France,Hautes-Pyrénées,Falaise,30 à 35 m,"Sud, Sud-Ouest",80 couennes,De 4b à 8b+
+Tsaranoro,Madagascar,,Falaise,jusqu'à 100 m,Sud,100 voies,De 3a à 8b
+Valdu Di Saltu,France,Corse-du-Sud,Bloc,7 m,Toutes,300 voies,De 4c à 7b
+Valgorge,France,Ardèche,Bloc,5 m,Toutes,60,De 4+ à 8a+
+Valjouffrey,France,Isère,Bloc,7 m,Toutes,50,De 2 à 7c
+Vallouise - Falaise de la gorge,France,Hautes-Alpes,Falaise,30m,Nord-Est,22 voies,De 6a à 7c
+Venasque,France,Vaucluse,Falaise,NC,Toutes,400 voies,De 5b à 8a
+Vingrau,France,Pyrénées-Orientales,Falaise,20 à 120 m,Ouest,300 voies,De 4a à 8a
+Zillertal,Autriche,,Falaise,NC,Toutes,Un millier de voies,De 4a à 8c

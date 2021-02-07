@@ -1,0 +1,243 @@
+spot; pays; region; type; hauteur; orientation; nombre de voies; cotations
+Ablon; France; Haute-Savoie; TypeFalaise; Hauteur80 m; OrientationSud-Est; Nombre de voies400 voies; CotationsDe 4b à 8b
+Ailefroide; France; Hautes-Alpes; TypeBloc, Falaise; Hauteur4 m (blocs) à 400 m (voies); OrientationToutes; Nombre de voies500 voies; CotationsDe 3a à 8a
+Annot; France; Alpes-de-Haute-Provence; TypeBloc, Falaise; Hauteur25 m; OrientationToutes; Nombre de voies400 voies; CotationsDe 4c à 8c+
+Antalya; Turquie; ; TypeFalaise; HauteurNC; OrientationNC; Nombre de voiesNC; CotationsDe 3a à 8c
+Arudy; France; Pyrénées-Atlantiques; TypeFalaise; Hauteur55 m; OrientationSud-Ouest; Nombre de voies230 voies; CotationsDe 3c à 8b
+Autoire; France; Lot; TypeFalaise; Hauteur5 à 25 m; OrientationEst, Sud-Est; Nombre de voies271 voies; CotationsDe 5a à 8b
+Badami; Inde; ; TypeFalaise; Hauteur20 à 30 m; OrientationToutes; Nombre de voies120 voies; CotationsDe 5c+ à 8c
+Balme de Yenne; France; Savoie; TypeFalaise; Hauteur20 à 60 m; OrientationNord; Nombre de voies70 voies; CotationsDe 6b à 9a
+Bavella; France; Corse-du-Sud; TypeFalaise; Hauteur600 m; OrientationToutes; Nombre de voies200 voies; CotationsDe 3c à 8b
+Bergholtz; France; Haut-Rhin; TypeFalaise; Hauteur25 m; OrientationEst; Nombre de voies81; CotationsDe 4c à 8a
+Bionnassay; France; Haute-Savoie; TypeFalaise; Hauteur40 m; OrientationOuest, Sud-Ouest; Nombre de voies50 voies; CotationsDe 5c à 9a
+Blue Mountains; Australie; ; TypeFalaise; HauteurNC; OrientationNC; Nombre de voiesNC; CotationsDe NC à NC
+Boven; Afrique du Sud; ; TypeFalaise; Hauteur35 m; OrientationToutes; Nombre de voies500 voies; CotationsDe 3a à 8b
+Buoux; France; Vaucluse; TypeFalaise; Hauteur70 m; OrientationToutes; Nombre de voies500 voies; CotationsDe 4b à 8c+
+Cantobre; France; Aveyron; TypeFalaise; Hauteur20 à 40 m; OrientationSud, Sud-Est, Est; Nombre de voies55 voies; CotationsDe 5c à 9a
+Cap Dramont; France; Var; TypeFalaise; Hauteur8 à 30 m; OrientationToutes; Nombre de voies50 voies; CotationsDe 3a à 7c
+Castillon; France; Alpes-Maritimes; TypeFalaise; Hauteur40 m; OrientationSud-Ouest; Nombre de voies55 voies; CotationsDe 6b à 8c+
+Céüse; France; Hautes-Alpes; TypeFalaise; Hauteur130 m; OrientationToutes; Nombre de voies400 voies; CotationsDe 5a à 9a+
+Chamiers; France; Ardèche; TypeBloc; Hauteur5 m; OrientationToutes; Nombre de voies25; CotationsDe 4b à 6a+
+Cimaï; France; Var; TypeFalaise; Hauteur20 à 80 m; OrientationSud-Est; Nombre de voies230 voies; CotationsDe 4a à 8b+
+Cirque d’Archiane; France; Drôme; TypeFalaise; Hauteur200 à 400 m; OrientationSud-Ouest, Sud, Est; Nombre de voies50 voies; CotationsDe 5b à 7b
+Claret; France; Hérault; TypeFalaise; Hauteur30 m; OrientationSud; Nombre de voiesUne bonne centaine; CotationsDe 5c à 8c
+Clemont; France; Doubs; TypeFalaise; Hauteur10 à 25 m; OrientationPlein Sud; Nombre de voies70 voies; CotationsDe 4c à 8c
+Clisson; France; Loire-Atlantique; TypeBloc; Hauteur2 à 5 m; OrientationToutes; Nombre de voies100 passages; CotationsDe 3a à 7a
+Ablon; France; Haute-Savoie; TypeFalaise; Hauteur80 m; OrientationSud-Est; Nombre de voies400 voies; CotationsDe 4b à 8b
+Ailefroide; France; Hautes-Alpes; TypeBloc, Falaise; Hauteur4 m (blocs) à 400 m (voies); OrientationToutes; Nombre de voies500 voies; CotationsDe 3a à 8a
+Annot; France; Alpes-de-Haute-Provence; TypeBloc, Falaise; Hauteur25 m; OrientationToutes; Nombre de voies400 voies; CotationsDe 4c à 8c+
+Antalya; Turquie; ; TypeFalaise; HauteurNC; OrientationNC; Nombre de voiesNC; CotationsDe 3a à 8c
+Arudy; France; Pyrénées-Atlantiques; TypeFalaise; Hauteur55 m; OrientationSud-Ouest; Nombre de voies230 voies; CotationsDe 3c à 8b
+Autoire; France; Lot; TypeFalaise; Hauteur5 à 25 m; OrientationEst, Sud-Est; Nombre de voies271 voies; CotationsDe 5a à 8b
+Badami; Inde; ; TypeFalaise; Hauteur20 à 30 m; OrientationToutes; Nombre de voies120 voies; CotationsDe 5c+ à 8c
+Balme de Yenne; France; Savoie; TypeFalaise; Hauteur20 à 60 m; OrientationNord; Nombre de voies70 voies; CotationsDe 6b à 9a
+Bavella; France; Corse-du-Sud; TypeFalaise; Hauteur600 m; OrientationToutes; Nombre de voies200 voies; CotationsDe 3c à 8b
+Bergholtz; France; Haut-Rhin; TypeFalaise; Hauteur25 m; OrientationEst; Nombre de voies81; CotationsDe 4c à 8a
+Bionnassay; France; Haute-Savoie; TypeFalaise; Hauteur40 m; OrientationOuest, Sud-Ouest; Nombre de voies50 voies; CotationsDe 5c à 9a
+Blue Mountains; Australie; ; TypeFalaise; HauteurNC; OrientationNC; Nombre de voiesNC; CotationsDe NC à NC
+Boven; Afrique du Sud; ; TypeFalaise; Hauteur35 m; OrientationToutes; Nombre de voies500 voies; CotationsDe 3a à 8b
+Buoux; France; Vaucluse; TypeFalaise; Hauteur70 m; OrientationToutes; Nombre de voies500 voies; CotationsDe 4b à 8c+
+Cantobre; France; Aveyron; TypeFalaise; Hauteur20 à 40 m; OrientationSud, Sud-Est, Est; Nombre de voies55 voies; CotationsDe 5c à 9a
+Cap Dramont; France; Var; TypeFalaise; Hauteur8 à 30 m; OrientationToutes; Nombre de voies50 voies; CotationsDe 3a à 7c
+Castillon; France; Alpes-Maritimes; TypeFalaise; Hauteur40 m; OrientationSud-Ouest; Nombre de voies55 voies; CotationsDe 6b à 8c+
+Céüse; France; Hautes-Alpes; TypeFalaise; Hauteur130 m; OrientationToutes; Nombre de voies400 voies; CotationsDe 5a à 9a+
+Chamiers; France; Ardèche; TypeBloc; Hauteur5 m; OrientationToutes; Nombre de voies25; CotationsDe 4b à 6a+
+Cimaï; France; Var; TypeFalaise; Hauteur20 à 80 m; OrientationSud-Est; Nombre de voies230 voies; CotationsDe 4a à 8b+
+Cirque d’Archiane; France; Drôme; TypeFalaise; Hauteur200 à 400 m; OrientationSud-Ouest, Sud, Est; Nombre de voies50 voies; CotationsDe 5b à 7b
+Claret; France; Hérault; TypeFalaise; Hauteur30 m; OrientationSud; Nombre de voiesUne bonne centaine; CotationsDe 5c à 8c
+Clemont; France; Doubs; TypeFalaise; Hauteur10 à 25 m; OrientationPlein Sud; Nombre de voies70 voies; CotationsDe 4c à 8c
+Clisson; France; Loire-Atlantique; TypeBloc; Hauteur2 à 5 m; OrientationToutes; Nombre de voies100 passages; CotationsDe 3a à 7a
+Col de la Colombière; France; Haute-Savoie; TypeFalaise; Hauteur20 à 80 m; OrientationSud-Est; Nombre de voies120 voies; CotationsDe 4c à 7c
+Collias; France; Gard; TypeFalaise; Hauteur20 à 60 m; OrientationPlein Sud; Nombre de voies200 voies; CotationsDe 3b à 8b+
+Cormot; France; Bourgogne; TypeFalaise; Hauteur35 m; OrientationToutes; Nombre de voies280 voies; CotationsDe 3c à 9a
+Côté Court; France; Drôme; TypeFalaise; HauteurNC; OrientationPlein sud; Nombre de voies32; CotationsDe 6c à projet
+Courchon (Verdon); France; Alpes-de-Haute-Provence; TypeFalaise; Hauteur35 m; OrientationSud, Sud-Ouest; Nombre de voies80 voies; CotationsDe 6a à 8b+
+Couyrac; France; Tarn-et-Garonne; TypeFalaise; Hauteur10 à 70 m; OrientationEst, sud-est; Nombre de voies70; CotationsDe 5b à 8a
+Crenans; France; Jura; TypeFalaise; HauteurNC; OrientationOuest; Nombre de voiesEnviron 60 voies; CotationsDe 6a à 8b
+D.J. Face; France; Isère; TypeFalaise; Hauteur30 à 60 m; OrientationNord-Est, Est; Nombre de voiesPlus d'une centaine; CotationsDe 6a+ à 8c
+Dalle de Gleize; France; Hautes-Alpes; TypeFalaise; Hauteur300 m; OrientationSud-est; Nombre de voiesNC; CotationsDe 4+ à 6a+
+El Chonta; Mexique; ; TypeFalaise; Hauteur180 m; OrientationToutes; Nombre de voies100 voies; CotationsDe 6c à 9a+
+Entraigues; France; Isère; TypeBloc; Hauteur7 m; OrientationToutes; Nombre de voies84; CotationsDe 2 à 8a+
+Entraygues; France; Hautes-Alpes; TypeFalaise; Hauteur20 m; OrientationNord; Nombre de voies50 voies; CotationsDe 6a à 9a
+Eyroles; France; Drôme; TypeFalaise; Hauteur35 m; OrientationSud-OUest, Nord-Est; Nombre de voies400 voies; CotationsDe 4+ à 8+
+Falaise de Correns (Châteauvert); France; Var; TypeFalaise; Hauteur20 à 40 m; OrientationToutes; Nombre de voies200 voies sur 36 secteurs; CotationsDe 3a à 8b
+Falaise d’Eson (Pont-de-Barret); France; Drôme; TypeFalaise; Hauteur10 à 35 m; OrientationSud, Sud-Ouest; Nombre de voiesUne centaine; CotationsDe 5a à 7c+
+Fauzan; France; Hérault; TypeFalaise; Hauteur15 à 25 m; OrientationSud; Nombre de voies250 voies; CotationsDe 5b à 8a
+Fétide Beach; France; Vaucluse; TypeFalaise; Hauteur25 m; OrientationNord; Nombre de voies30 couennes; CotationsDe 6c à 9a
+Fixin; France; Bourgogne; TypeFalaise; Hauteur5 à 35 m; OrientationSud; Nombre de voies250 voies; CotationsDe 3a à 8c
+Flaine; France; Haute-Savoie; TypeFalaise; Hauteur20 à 40 m; OrientationSud, Sud-Est; Nombre de voies200 voies; CotationsDe 3c à 8b
+Fontainebleau; France; Seine-et-Marne; TypeBloc; HauteurToutes les tailles !; OrientationToutes; Nombre de voiesDes milliers de passages; CotationsDe 3a à 8c+
+Genat; France; Ariège; TypeFalaise; Hauteur35 m; OrientationSud-Ouest, Sud, Sud-Est; Nombre de voiesUne soixantaine; CotationsDe 5c à 8b+
+Getu; Chine; ; TypeFalaise; Hauteur240 m; OrientationToutes; Nombre de voies250 voies; CotationsDe 5c à 9a
+Glandasse; France; Drôme; TypeFalaise; Hauteur200 à 450 m; OrientationSud-Ouest; Nombre de voies30 voies; CotationsDe 6a à 7b
+Gorges de L'Ardèche; France; Ardèche; TypeFalaise; Hauteur30 à 50 m; OrientationSud; Nombre de voies50 voies; CotationsDe 7a à 8b+
+Gorges de La Jonte; France; Lozère; TypeFalaise; Hauteur155 m; OrientationToutes; Nombre de voies300 voies; CotationsDe 4c à 8c
+Gorges du Blavet; France; Var; TypeFalaise; Hauteur95 m; OrientationToutes; Nombre de voies100 voies; CotationsDe 3a à 8b+
+Gorges du Tarn; France; Lozère; TypeFalaise; HauteurNC; OrientationToutes; Nombre de voies700 voies; CotationsDe 3a à 8c
+Grotte du Brotsch; France; Bas-Rhin; TypeFalaise; Hauteur20 à 25 m; OrientationSud-Ouest; Nombre de voies50 voies; CotationsDe 6a à 8b+
+Grottes de Sare; France; Pyrénées-Atlantiques; TypeFalaise; Hauteur10 à 15 m; OrientationSud; Nombre de voiesUne cinquentaine; CotationsDe 4a à 8a
+Gueberschwihr; France; Haut-Rhin; TypeBloc, Falaise; Hauteur30 m; OrientationSud-Est; Nombre de voies50 blocs; CotationsDe 4a à 7c+
+Kalymnos; Grèce; ; TypeFalaise; HauteurNC; OrientationToutes; Nombre de voies1700 voies; CotationsDe 4+ à 9a+
+Kerlouan; France; Finistère; TypeBloc; Hauteur10 m; OrientationToutes; Nombre de voiesplus de 1000; CotationsDe 3a à 8a
+Krappenfels; France; Moselle; TypeFalaise; Hauteur20 m; OrientationSud-Ouest; Nombre de voiesUne centaine; CotationsDe 4c à 7b+
+L'hortus; France; Hérault; TypeFalaise; Hauteur90 à 130 m; OrientationSud; Nombre de voies120 voies; CotationsDe 5b à 8b
+L'Obiou; France; Isère; TypeFalaise; Hauteur340 m; OrientationEst; Nombre de voiesNC; CotationsDe 5a à 6b+
+La Carrière du Maupas; France; Vaucluse; TypeFalaise; Hauteur30 à 35 m; OrientationNord, Nord-Est; Nombre de voies20 voies; CotationsDe 7a à 8b+
+La Chalp; France; Isère; TypeFalaise; Hauteur15 à 25 m; OrientationEst, Sud-Est; Nombre de voies41; CotationsDe 5b à 8b
+La Chambotte; France; Savoie; TypeFalaise; Hauteur10 à 90 m; OrientationOuest, Sud-Ouest; Nombre de voies300 voies; CotationsDe 4b à 8c
+La Clape; France; Aude; TypeFalaise; Hauteur20 m; OrientationToutes; Nombre de voies350 voies; CotationsDe NC à 7c+
+La Combe Obscure; France; Vaucluse; TypeFalaise; Hauteur35 à 40 m; OrientationSud; Nombre de voiesUne centaine; CotationsDe 4a à 7c+
+La Concession; France; Vaucluse; TypeFalaise; Hauteur25 m; OrientationNord; Nombre de voies52 voies; CotationsDe 5b à 8c
+La Croix; France; Tarn-et-Garonne; TypeFalaise; Hauteurde 15 à 80 m; OrientationOuest; Nombre de voies60; CotationsDe 4a à 8b+
+La Dalle de Chantelouve; France; Isère; TypeFalaise; Hauteur20 à 80 m; OrientationEst; Nombre de voies17; CotationsDe 3a à 6a+/b
+La Dent de La Rancune; France; Auvergne; TypeFalaise; Hauteur90 m; OrientationToutes; Nombre de voies30 voies; CotationsDe 4c à 8a
+La Dibona; France; Isère; TypeFalaise; Hauteur300 à 400 m; OrientationToutes; Nombre de voies20 voies; CotationsDe 4a à 8a
+La Falaise de Cohons; France; Haute-Marne; TypeFalaise; Hauteur20 à 25 m; OrientationSud; Nombre de voies45 voies; CotationsDe 4a à 8a
+La Gittaz; France; Savoie; TypeFalaise; Hauteur10 à 35 m; OrientationSud-Ouest; Nombre de voies27 voies; CotationsDe 6a à 8c
+La Goulandière; France; Isère; TypeFalaise; HauteurNC; OrientationSud-est. En été, à l’ombre l’après-midi à partir de 14 h.; Nombre de voies49; CotationsDe NC à NC
+La Grande Falaise (Freissinières); France; Hautes-Alpes; TypeFalaise; Hauteur150 m; OrientationSud, Sud-Ouest; Nombre de voies100 voies; CotationsDe 5a à 8c
+La Hottée du Diable; France; Marne; TypeBloc; Hauteur3 à 8 m; OrientationToutes; Nombre de voies100 voies; CotationsDe 3a à 8a
+La Madeleine; France; Tarn-et-Garonne; Type; Hauteur10 à 20 m; OrientationSud; Nombre de voies50; CotationsDe 4a à 8a
+La Martinswand; France; Haut-Rhin; TypeFalaise; Hauteur80 m; OrientationSud-Est; Nombre de voies100 voies; CotationsDe 3c à 8b
+La Mâture; France; Pyrénées-Atlantiques; TypeFalaise; Hauteur40 à 200 m; OrientationSud; Nombre de voies130 voies; CotationsDe 4c à 8a+
+La Plage; France; Drôme; TypeFalaise; Hauteur30 à 35 m; OrientationSud-est. La falaise prend le soleil le matin, et passe à l’ombre vers 14-15h en demi-saison. On ne viendra que l’après-midi quand il fait chaud, mais si le temps est couvert et la température raisonnable, on peut venir un peu plus tôt dans la journée.; Nombre de voies33; CotationsDe 7a+ à 8c
+La Pointe Percée; France; Haute-Savoie; TypeFalaise; Hauteur250 m; OrientationToutes; Nombre de voies30 voies; CotationsDe 5c à 7b
+La Presqu'île; France; Drôme; TypeFalaise; Hauteur15 à 35 m; OrientationEst; Nombre de voies52 voies; CotationsDe 6a à 8c
+La Réserve; France; Isère; TypeFalaise; HauteurNC; OrientationSud-est ou sud sud-ouest selon secteurs; Nombre de voies23; CotationsDe 6a à 7c+
+La Restonica; France; Haute-Corse; TypeFalaise; Hauteur40 m; OrientationToutes; Nombre de voiesPlus de 200 voies; CotationsDe 4a à 8a
+La Roche Bernard; France; Haute-Marne; TypeFalaise; Hauteur10 à 15 m; OrientationSud-Ouest; Nombre de voies37 voies; CotationsDe 4b à 7b+
+La Rochette; France; Hautes-Alpes; TypeFalaise; Hauteur25m; Orientationsud; Nombre de voies50 voies; CotationsDe 4a à 7b
+La Roque; France; Lozère; TypeFalaise; Hauteur10 à 50 m; OrientationNC; Nombre de voies100 voies; CotationsDe 3a à 7b
+La Taupinière (Tamée); France; Drôme; TypeFalaise; HauteurNC; OrientationEst. À l’ombre à partir de 10-11h en été.; Nombre de voies27; CotationsDe NC à NC
+La Tour sur Tinée; France; Alpes-Maritimes; TypeFalaise; Hauteur150 m; Orientationest, ouest; Nombre de voiesune centaine; CotationsDe 6a à 7c
+La Tournette; France; Haute-Savoie; TypeFalaise; Hauteur220 m; OrientationOuest; Nombre de voies40 voies; CotationsDe 5c à 7b
+La Turbie; France; Alpes-Maritimes; TypeFalaise; Hauteur120 m; OrientationToutes; Nombre de voies400 voies; CotationsDe 3c à 8c
+Le Baou des 4 Ouros; France; Var; TypeFalaise; Hauteur30 m; OrientationToutes; Nombre de voies500 voies; CotationsDe 2a à 8b
+Le Barring (Bavella); France; Corse-du-Sud; TypeFalaise; Hauteur45 m; OrientationOuest; Nombre de voies18 voies; CotationsDe 5c à 8c
+Le Cap Canaille; France; Bouches-du-Rhône; TypeFalaise; Hauteur240 m; OrientationOuest; Nombre de voies50 voies; CotationsDe 3+ à 7b
+Le Capucin; France; Auvergne; TypeBloc; Hauteur60 m; OrientationOuest, Est, Nord; Nombre de voies53 passages; CotationsDe 4c à 8c
+Le Caroux; France; Hérault; TypeFalaise; Hauteur350 m; OrientationToutes; Nombre de voies400 voies; CotationsDe 3a à 7c
+Le Chaos du Claps; France; Drôme; TypeBloc, Falaise; Hauteur280 m; OrientationToutes; Nombre de voies50 voies; CotationsDe 3b à 7a
+Le Falkenfels; France; Moselle; TypeFalaise; Hauteur10 à 30 m; OrientationSud; Nombre de voies55 voies; CotationsDe 5+ à 8b
+Le Foron; France; Haute-Savoie; TypeFalaise; Hauteur10 à 30 m; OrientationOuest; Nombre de voies40 voies; CotationsDe 6a+ à 8b
+Le Fournel; France; Hautes-Alpes; TypeFalaise; Hauteur130 m max; OrientationOuest, Sud-Ouest, Nord, Est; Nombre de voies100 voies; CotationsDe 4b à 9a
+Le Fugeret (Annot); France; Alpes-de-Haute-Provence; TypeBloc; Hauteur10 à 12 m; OrientationToutes; Nombre de voiesEnvirons 1600; CotationsDe débutant à expert
+Le Gauxberg; France; Bas-Rhin; TypeFalaise; Hauteur25 m; OrientationSud; Nombre de voies70 voies; CotationsDe 6a à 9a
+Le Grand Sablat; France; Isère; TypeBloc; Hauteur7 m; OrientationToutes; Nombre de voies60 passages; CotationsDe 6a à 8c
+Le Grand Vallon (Roquevaire); France; Bouches-du-Rhône; TypeFalaise; Hauteur45 m; OrientationToutes; Nombre de voies140 voies; CotationsDe 3c à 9a
+Le Joncas; France; Hérault; TypeFalaise; Hauteur70 m; OrientationSud-Ouest, Nord-Est; Nombre de voies70 voies; CotationsDe 4b à 8a
+Le Kronthal; France; Bas-Rhin; TypeFalaise; Hauteur30 m; OrientationSud; Nombre de voies130 voies; CotationsDe 5a à 8b
+Le Moulin de Bertrand; France; Hérault; TypeFalaise; Hauteur25 m; OrientationSud-Est; Nombre de voies30 voies; CotationsDe 4b à 8b
+Le Piéroux; France; Hautes-Alpes; TypeFalaise; Hauteur250 m; OrientationOuest; Nombre de voies10; CotationsDe 3 à 6c+
+Le Pont du Prêtre; France; Isère; TypeFalaise; Hauteur25 à 30 m; OrientationOuest; Nombre de voies48; CotationsDe 5a à 6b+
+Le précipice de Corbière; France; Drôme; TypeFalaise; Hauteur15 à 40 m; OrientationOuest-Est; Nombre de voies34; CotationsDe 4a à 8
+Le Prieuré (Lodève); France; Hérault; TypeBloc; Hauteur7 m; Orientationtoutes; Nombre de voies300 pasages; CotationsDe 3a à 8b
+Le Quié de Sinsat; France; Ariège; TypeFalaise; Hauteur15 à 400 m; OrientationSud-Est; Nombre de voies200 voies; CotationsDe 3c à 7c
+Le Roc d'Anglars; France; Tarn-et-Garonne; TypeFalaise; Hauteurde 30 à 80 m; Orientationnord; Nombre de voies170; CotationsDe 4c à 8b+
+Le rocher Crespin; France; Drôme; TypeFalaise; Hauteur35 m; OrientationNord; Nombre de voies34; CotationsDe 5c à 9a
+Le Rocher de 11 heures; France; Isère; TypeFalaise; Hauteur15 à 30 m; OrientationSud-Ouest; Nombre de voies25; CotationsDe 4a à 6b+
+Le Rocher de Gonson; France; Isère; TypeFalaise; Hauteur120 à 150 m; OrientationPlein ouest; Nombre de voies5; CotationsDe NC à NC
+Le Rocher du Sphinx; France; Côtes-d’Armor; TypeFalaise; Hauteur15 m; OrientationNord, Ouest; Nombre de voies20 voies; CotationsDe 3c à 6a
+Le Salève; France; Haute-Savoie; TypeBloc, Falaise; Hauteur7 m pour les blocs. 20 à 180 m pour la falaise; OrientationToutes; Nombre de voies450 voies; CotationsDe 3a à 8a
+Le Saussois; France; Yonne; TypeFalaise; Hauteur50 m; OrientationSud; Nombre de voies200 voies; CotationsDe 4c à 8c
+Le Teillon (Verdon); France; Alpes-de-Haute-Provence; TypeFalaise; Hauteur200 m; OrientationOuest; Nombre de voies30 voies; CotationsDe 6a à 8b
+Le Thaurac; France; Hérault; TypeFalaise; Hauteur30 m; OrientationOuest, Sud-Ouest; Nombre de voies400 voies; CotationsDe 4b à 8b
+Le Verdon; France; Alpes-de-Haute-Provence; TypeFalaise; Hauteur250 à 350 m; OrientationToutes; Nombre de voies1500 voies; CotationsDe Tous niveaux à Tous niveaux
+Lérouville; France; Meuse; TypeFalaise; Hauteur8 à 30 m; OrientationSud-Ouest; Nombre de voies90 voies; CotationsDe 4c à 8b
+Les 3 Becs; France; Drôme; TypeFalaise; Hauteur250 à 350 m; OrientationNord-Est à Nord Ouest; Nombre de voies20 voies; CotationsDe 5b à 7b
+Les Aiguilles Rouges; France; Haute-Savoie; TypeFalaise; Hauteur130 à 250 m; OrientationToutes; Nombre de voiesUne trentaine; CotationsDe 5b à 6b
+Les Basses Gorges; France; Lozère; Type; Hauteur35 m; OrientationSud-Est; Nombre de voies-; CotationsDe - à -
+Les Bossons; France; Haute-Savoie; TypeBloc; Hauteur4 à 5 m; OrientationToutes; Nombre de voies25 blocs pour 150 passages; CotationsDe 3c à 7b
+Les Calanques; France; Bouches-du-Rhône; TypeFalaise; Hauteur10 à 100 m; OrientationToutes; Nombre de voies3000 voies; CotationsDe 3a à 9a
+Les Cerces; France; Hautes-Alpes; TypeFalaise; Hauteur300 m; OrientationToutes; Nombre de voies130 voies; CotationsDe 5c à ED
+Les Dentelles de Montmirail; France; Vaucluse; TypeFalaise; Hauteur90 m par endroit; OrientationNord, Sud; Nombre de voies800 voies; CotationsDe 3c à 8b
+Les Dents de Lanfon; France; Haute-Savoie; TypeFalaise; Hauteur250 m; OrientationSud-Ouest; Nombre de voies20 voies; CotationsDe 5+ à 7b
+Les Eaux-Claires; France; Charente; TypeBloc, Falaise; Hauteur10 à 18 m; OrientationSud principalement; Nombre de voies400 voies; CotationsDe 4a à 9a
+Les Falloises de Vertus; France; Marne; TypeFalaise; Hauteur25 m; OrientationEst; Nombre de voies130 voies; CotationsDe 3a à 7c
+Les Fiz; France; Haute-Savoie; TypeFalaise; Hauteur200 à 600 m; OrientationSud, Sud-Est; Nombre de voies15 voies; CotationsDe 5b à 7a+
+Les Gicons; France; Hautes-Alpes; TypeFalaise; Hauteur30 m; OrientationSud, sud-ouest; Nombre de voies60; CotationsDe 3c à 8a
+Les Gillardes; France; Isère; TypeFalaise; Hauteur550 m; OrientationOuest; Nombre de voies22; CotationsDe 6a+ à 7a+
+Les Gorges du Loup; France; Alpes-Maritimes; TypeFalaise; Hauteur45 m; OrientationOuest; Nombre de voies70 voies; CotationsDe 6a à 9a
+Les Herbez; France; Alpes-de-Haute-Provence; TypeFalaise; Hauteur60 m; OrientationSud, Sud-Est et Ouest; Nombre de voies160; CotationsDe 4 à 8b+/c
+Les Lames; France; Isère; TypeFalaise; Hauteur35 m; OrientationSud-Ouest; Nombre de voiesUne centaine; CotationsDe 4c à 8b
+Les Petits Goulets; France; Drôme; TypeFalaise; Hauteur80 m à 200 m; OrientationOrienté Sud-Est. À l’ombre l’après-midi.; Nombre de voies103; CotationsDe 4 à 8c+
+Les Pinets; France; Isère; TypeFalaise; Hauteur20 à 30 m; OrientationEst, Sud; Nombre de voies20; CotationsDe 3a à 6a+
+Les Roches Qui Dansent; France; Drôme; TypeBloc; Hauteur8 m; OrientationToutes; Nombre de voies21 blocs, 90 pasages; CotationsDe 4a à 8a
+Les Sucettes de Borne; France; Drôme; TypeFalaise; Hauteur100 m; OrientationNord, Sud; Nombre de voies60; CotationsDe 5a à 8a+
+Les Traverses; France; Hautes-Alpes; TypeFalaise; Hauteur35 m; OrientationSud, Sud-Ouest; Nombre de voiesPlus de 50; CotationsDe 4b à 8b
+Les Trois Rivières (Entrechaux); France; Vaucluse; TypeFalaise; Hauteur30 m; OrientationNord, Nord-Ouest; Nombre de voiesUne centaine; CotationsDe 6a à 8b/c
+Llo; France; Pyrénées-Orientales; TypeFalaise; Hauteur10 à 30 m; OrientationSud, Sud-Ouest; Nombre de voies40 voies; CotationsDe 4a à 8a
+L’auberge Espagnole; France; Drôme; TypeFalaise; Hauteur35 m; OrientationToutes; Nombre de voies60 voies; CotationsDe 5a à 8b+
+Manjo Carn; France; Tarn-et-Garonne; TypeFalaise; Hauteur15 à 90 m; Orientationnord, nord-ouest; Nombre de voies-; CotationsDe 4b à 9a
+Margalef; Espagne; ; TypeFalaise; HauteurNC; OrientationToutes; Nombre de voies500 voies; CotationsDe 4a à 9b
+Marocaz; France; Savoie; TypeFalaise; Hauteur15 à 30 m; OrientationEst, Sud-Est; Nombre de voies54 voies; CotationsDe 6a+ à 8b+
+Médonnet; France; Haute-Savoie; TypeBloc; Hauteur5 m; OrientationToutes; Nombre de voies250 passages; CotationsDe 4b à 8a
+Mévouillon; France; Drôme; TypeFalaise; Hauteur35 m; OrientationEst, ouest; Nombre de voies60; CotationsDe 4a à 8b
+Millennium; Italie; ; TypeFalaise; Hauteur60 m; OrientationEst; Nombre de voies100 voies; CotationsDe 6a à 8b
+Mollans sur Ouvèze; France; Vaucluse; TypeFalaise; Hauteurde 10 à 35 m; OrientationNord, Nord-Est, Sud, Sud-Est; Nombre de voies150; CotationsDe 5a à 9b
+Mont Aiguille; France; Isère; TypeFalaise; Hauteur150 m à 320 m; OrientationNC; Nombre de voies37; CotationsDe PD à ED+
+Mont-Dauphin; France; Hautes-Alpes; TypeFalaise; Hauteur40m; OrientationEst; Nombre de voies60 voies; CotationsDe 6a à 8a+
+Mouriès; France; Bouches-du-Rhône; TypeFalaise; Hauteur20 à 35 m; OrientationSud, Nord; Nombre de voiesPlus de 200 voies; CotationsDe 3a à 8b
+Notre-Dame du Cros; France; Aude; TypeFalaise; Hauteur85 m; OrientationOuest, Sud-Est; Nombre de voies120 voies; CotationsDe 4a à 7c+
+Omblèze; France; Drôme; TypeFalaise; Hauteur15 à 200 m; OrientationSud, Sud-Est; Nombre de voies500 voies; CotationsDe 3a à 9a
+Orgon; France; Bouches-du-Rhône; TypeFalaise; Hauteur35 à 75 m; OrientationEst, Nord-Est; Nombre de voies350 voies; CotationsDe 3b à 9a
+Orlu; France; Ariège; TypeBloc; Hauteur8 à 9 m; OrientationToutes; Nombre de voiesPlus de 50 passages; CotationsDe 4c à 8a
+Orpierre; France; Hautes-Alpes; TypeFalaise; Hauteur190 m; OrientationToutes; Nombre de voies500 voies; CotationsDe 3a à 8c
+Peillon; France; Alpes-Maritimes; TypeFalaise; Hauteur80 m; OrientationSud, Sud-Est; Nombre de voies100 voies; CotationsDe 4c à 8c
+Pen-Hir; France; Finistère; TypeFalaise; Hauteur80 m; OrientationOuest; Nombre de voiesAu moins 130; CotationsDe 3c à 6a
+Pène Haute; France; Hautes-Pyrénées; TypeFalaise; Hauteur50 à 100 m; OrientationEst, Sud; Nombre de voies200 voies; CotationsDe 4c à 8a
+Pic de Bure; France; Hautes-Alpes; TypeFalaise; Hauteur600 m; OrientationEst; Nombre de voies21; CotationsDe 4b à 6b
+Pic du Perthus; France; Vaucluse; TypeFalaise; Hauteur50 à 80 m; OrientationEst, Sud-Est; Nombre de voies10 voies; CotationsDe 5c à 6b+
+Pic Saint-Loup; France; Hérault; TypeFalaise; Hauteur40 m; OrientationNord; Nombre de voies30 voies; CotationsDe 7a à 9a
+Pierre-Lys; France; Aude; TypeFalaise; Hauteur300 m; OrientationOuest; Nombre de voiesune centaine; CotationsDe 4a à 8a
+Ploumanac’h; France; Côtes-d’Armor; TypeBloc; Hauteur10 à 11 m; OrientationToutes; Nombre de voiesEnviron 110 passages; CotationsDe 5b à 8a
+Pont d'Espagne; France; Hautes-Pyrénées; TypeFalaise; Hauteur10 à 25 m; OrientationToutes; Nombre de voies60 voies; CotationsDe 3b à 8a
+Pont de Camps; France; Pyrénées-Atlantiques; TypeBloc; Hauteur8 m; OrientationToutes; Nombre de voies170 passages; CotationsDe 3a à 7c
+Pont Saint Nicolas; France; Gard; TypeFalaise; Hauteur15 m; OrientationSud-Est; Nombre de voies55 voies; CotationsDe 4b à 8b
+Presles; France; Isère; TypeFalaise; Hauteur35 à 300 m; OrientationSud; Nombre de voies300 voies; CotationsDe 4a+ à 8b
+Punta di Capineru (Pianotolli di Caldarello); France; Corse-du-Sud; TypeBloc; Hauteur4 à 5 m; OrientationToutes; Nombre de voiesBeaucoup; CotationsDe 3a à 7c+
+Puy-Saint-Vincent; France; Hautes-Alpes; TypeFalaise; Hauteur40m; OrientationNord; Nombre de voies45 Voies; CotationsDe 6b+ à 8b+
+Quinson (Verdon); France; Alpes-de-Haute-Provence; TypeFalaise; Hauteur35 m; OrientationSud-Ouest; Nombre de voies210 voies; CotationsDe 3b à 8b
+Red River Gorge; États Unis; ; TypeFalaise; HauteurNC; OrientationNC; Nombre de voiesDes milliers; CotationsDe NC à NC
+Rioupéroux; France; Isère; TypeBloc; Hauteur8 m; OrientationToutes; Nombre de voies500 pasages; CotationsDe 3+ à 8c
+Rochefort-du-Gard; France; Gard; TypeFalaise; Hauteur10 à 40 m; OrientationToutes; Nombre de voies130 voies; CotationsDe 3b à 7a+
+Rocher du Midi; France; Isère; TypeFalaise; Hauteur300 m; OrientationEst; Nombre de voies20 voies; CotationsDe 6c à 8b
+Rocher du Saint-Julien (Buis-Les-Baronnies); France; Drôme; TypeFalaise; Hauteur125 m; OrientationSud-Ouest, Sud, Nord; Nombre de voies260 voies; CotationsDe 3b+ à 7b
+Romeyer; France; Drôme; TypeFalaise; Hauteur25 et 50 m; OrientationOuest, Sud-Ouest; Nombre de voies120 voies; CotationsDe 4c à 8c
+Rurey; France; Doubs; TypeFalaise; Hauteur25 à 30 m; OrientationToutes; Nombre de voiesune centaine; CotationsDe 4c à 8c
+Russan; France; Gard; TypeFalaise; Hauteur45 m; OrientationSud-Ouest, Sud, Sud-Est; Nombre de voies200 voies; CotationsDe 4b à 8c
+Saint Mihiel; France; Meuse; TypeFalaise; Hauteur10 à 30 m; OrientationOuest; Nombre de voies60 voies; CotationsDe 4a à 8c+
+Saint Pancrasse; France; Isère; TypeFalaise; Hauteur20 à 25 m; OrientationSud, Sud-Est; Nombre de voies250 voies; CotationsDe 4c à 8c
+Saint-Antonin-Noble-Val (Le Capucin); France; Tarn-et-Garonne; TypeFalaise; Hauteur80 m; OrientationSud-Est, Sud; Nombre de voies210 voies; CotationsDe 4c à 8b
+Saint-Bauzille de Montmel; France; Hérault; TypeFalaise; Hauteur25 m; OrientationSud; Nombre de voies215 voies; CotationsDe 3a à 8b+
+Saint-Cézaire; France; Alpes-Maritimes; TypeFalaise; Hauteur35 m; OrientationOuest, Sud, Nord; Nombre de voies100 voies; CotationsDe 5b à 8b
+Saint-Florent; France; Haute-Corse; TypeFalaise; Hauteur20 à 25 m; OrientationNord, Est; Nombre de voies7 voies; CotationsDe 6c à 8b
+Saint-Géry; France; Lot; TypeFalaise; Hauteur20 à 55 m; OrientationSud-Est; Nombre de voies100 voies; CotationsDe 4c à 8c
+Saint-Guilhem-le-Désert; France; Hérault; TypeFalaise; Hauteur200 m; OrientationNord, Sud-Est; Nombre de voiesUne centaine; CotationsDe 5c à 8c+
+Saint-Jean de Buèges; France; Hérault; TypeFalaise; Hauteur80 m; OrientationOuest, Sud; Nombre de voies30 voies; CotationsDe 5c à 7b
+Saint-Léger du Ventoux; France; Vaucluse; TypeFalaise; Hauteur40 m; OrientationToutes; Nombre de voies500 voies; CotationsDe 6a à 8c
+Saint-Sauves; France; Auvergne; TypeFalaise; Hauteur20 à 30 m; OrientationToutes; Nombre de voies39 voies; CotationsDe 5c à 8b+
+Sainte-Croix; France; Drôme; TypeFalaise; Hauteur20 m; OrientationSud; Nombre de voies25 voies; CotationsDe 7a à 8b
+Sainte-Victoire; France; Bouches-du-Rhône; TypeFalaise; Hauteur40 m; OrientationOuest, Sud-Ouest; Nombre de voies200 voies; CotationsDe 3b à 9a+
+Saoû; France; Drôme; TypeFalaise; Hauteur30 à 300 m; OrientationToutes; Nombre de voies750 voies; CotationsDe 3b à 8b
+Serre Châtelard; France; Drôme; TypeFalaise; Hauteur110 à 180 m; OrientationSud-Est; Nombre de voies30; CotationsDe NC à NC
+Seynes; France; Gard; TypeFalaise; Hauteur20 à 40 m; OrientationSud; Nombre de voies300 voies; CotationsDe 3b à 8c
+Siurana; Espagne; ; TypeFalaise; Hauteur90 m; OrientationToutes; Nombre de voies900 voies; CotationsDe 4a à 9b
+Smith Rock; États Unis; ; TypeFalaise; Hauteur111 m; OrientationToutes; Nombre de voies1000 voies; CotationsDe Tous niveaux à NC
+Suberpène; France; Hautes-Pyrénées; TypeFalaise; Hauteur40 à 200 m; OrientationSud; Nombre de voies150 voies; CotationsDe 5a à 8b
+Suesca; Colombie; ; TypeFalaise; HauteurNC; OrientationToutes; Nombre de voies200 voies; CotationsDe 4 à 8b+
+Taghia; Maroc; ; TypeFalaise; HauteurJusqu'à 800 m; OrientationToutes; Nombre de voies100 voies; CotationsDe 6a à 8b
+Targasonne; France; Pyrénées-Orientales; TypeBloc; Hauteur10 m; OrientationToutes; Nombre de voies400 passages; CotationsDe 4+ à 6b
+Tautavel; France; Pyrénées-Atlantiques; TypeFalaise; Hauteur20 m; OrientationOuest, Sud-Est, Est; Nombre de voies300 voies; CotationsDe 3a à 8b
+Tournoux; France; Hautes-Alpes; TypeFalaise; Hauteur40 m; OrientationSud, Nord; Nombre de voies100 voies; CotationsDe 4c à 8c
+Tousaus; France; Hautes-Pyrénées; TypeFalaise; Hauteur20 à 35 m; OrientationNord; Nombre de voies30 voies; CotationsDe 6c à 8b
+Trenze; France; Lozère; TypeFalaise; Hauteurentre 15 et 200 m; Orientationsud, sud-ouest; Nombre de voies32; CotationsDe 3c à 7b
+Troubat; France; Hautes-Pyrénées; TypeFalaise; Hauteur30 à 35 m; OrientationSud, Sud-Ouest; Nombre de voies80 couennes; CotationsDe 4b à 8b+
+Tsaranoro; Madagascar; ; TypeFalaise; Hauteurjusqu'à 100 m; OrientationSud; Nombre de voies100 voies; CotationsDe 3a à 8b
+Valdu Di Saltu; France; Corse-du-Sud; TypeBloc; Hauteur7 m; OrientationToutes; Nombre de voies300 voies; CotationsDe 4c à 7b
+Valgorge; France; Ardèche; TypeBloc; Hauteur5 m; OrientationToutes; Nombre de voies60; CotationsDe 4+ à 8a+
+Valjouffrey; France; Isère; TypeBloc; Hauteur7 m; OrientationToutes; Nombre de voies50; CotationsDe 2 à 7c
+Vallouise - Falaise de la gorge; France; Hautes-Alpes; TypeFalaise; Hauteur30m; OrientationNord-Est; Nombre de voies22 voies; CotationsDe 6a à 7c
+Venasque; France; Vaucluse; TypeFalaise; HauteurNC; OrientationToutes; Nombre de voies400 voies; CotationsDe 5b à 8a
+Vingrau; France; Pyrénées-Orientales; TypeFalaise; Hauteur20 à 120 m; OrientationOuest; Nombre de voies300 voies; CotationsDe 4a à 8a
+Zillertal; Autriche; ; TypeFalaise; HauteurNC; OrientationToutes; Nombre de voiesUn millier de voies; CotationsDe 4a à 8c
