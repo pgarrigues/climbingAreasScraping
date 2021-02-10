@@ -1,0 +1,313 @@
+spot; pays; region; departement; ville; hauteur; nb_lignes; meileures_saisons; cotations; approche; orientation; hauteur_min; hauteur_max; hauteur_moyenne; type; latitude; longitude
+Falaise 3 rivieres; France ; Rhone Alpes ; Drome ; entrechaux; 10 - 40m; 300; Printemps, Été, Automne; 4b 9a; Facile | 5min; Nord, Nord-Ouest; 10m; 40m; 25m; Couenne; 44.236498; 5.147780
+Falaise Ablon; Annecy;  ;  ;  ; 15 - 80m; 240; Été, Automne; 4a 8b; Modérée | 50min; Sud-Est; 15m; 80m; 26m; Couenne; 45.934018; 6.280872
+Falaise Actinidias; France ; Rhone Alpes ; Ardèche ; Berrias et Casteljau; 20 - 35m; 58; Printemps, Été, Automne; 4a 8c; Facile | 5min; Est; 20m; 35m; 25m; Couenne; 44.402821; 4.199008
+Falaise Ahuy; France ; Bourgogne ; Côte d'Or ; Ahuy; 8 - 15m; 20; Printemps, Automne; 4a 7b; Facile | 3min; Sud, Ouest; 8m; 15m; 13m; Couenne; 47.37006 ; 5.015443
+Falaise Aiguille de buis; France ; Rhone Alpes ; Drome ; buis les baronnies; 15 - 60m; 60; Printemps, Automne, Hiver; 4b 7c; Modérée | 20min; Sud, Est; 15m; 60m; 30m; Couenne, Voie de plusieurs longueurs; 44.286226; 5.291418
+Falaise Ailefroide – Secteur Champignon; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Ailefroide; 3 - 5m; 15; Été; 5c 7b; Facile | 8min; Toutes; 3m; 5m; 4m; Bloc; 44.886123; 6.450595
+Falaise Ailefroide – secteur Dalle; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Ailefroide; 3 - 4m; 9; Été; 5b 8a; Facile | 5min; Nord, Est, Ouest; 3m; 4m; 3m; Bloc; 44.877281; 6.476849
+Falaise Ailefroide – Secteur pavé; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Ailefroide; 3 - 5m; 26; Été; 5c 7c; Facile | 5min; Toutes; 3m; 5m; 4m; Bloc; 44.880853; 6.462719
+Falaise Ailefroide – Secteur Philémon; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Ailefroide; 2 - 3m; 38; Été; 5a 7b; Facile | 2min; Toutes; 2m; 3m; 3m; Bloc; 44.881539; 6.460264
+Falaise Ailefroide – Secteur Pont; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Ailefroide; 5 - 7m; 10; Été; 7a 8a; Facile | 2min; Sud, Sud-Est; 5m; 7m; 6m; Bloc; 44.882660; 6.455018
+Falaise Ailefroide – Secteur Réception; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Ailefroide; 3 - 4m; 19; Été; 5c 8a; Facile | 2min; Sud, Sud-Est, Ouest; 3m; 4m; 4m; Bloc; 44.885134; 6.450794
+Falaise Ailefroide – Secteur Rivière; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Ailefroide; 3 - 5m; 24; Été; 5a 7c; Facile | 2min; Toutes; 3m; 5m; 4m; Bloc; 44.884488; 6.452464
+Falaise Alaise; France ; Franche Comté ; Doubs ; Nans sous st anne; 20 - 50m; 20; Printemps; 6b 8c; Modérée | 20min; Sud; 20m; 50m; 40m; Couenne, Voie de plusieurs longueurs; 47.008762; 5.986003
+Falaise Anthon; France ; Rhone Alpes ; Haute Savoie ; Mieussy; 8 - 30m; 130; Printemps, Été, Automne; 4a 8b; Facile | 1min; Sud-Est, Sud-Ouest; 8m; 30m; 18m; Couenne; 46.136988; 6.502061
+Falaise Appy; France ; Midi Pyrénées ; Ariège ; Appy; 15 - 30m; 26; Printemps, Automne; 4c 7b; Modérée | 15min; Sud-Ouest; 15m; 30m; 20m; Couenne; 42.796565; 1.734230
+Falaise Arc de Cercle; France ; Franche Comté ; Doubs ; Ornans; 10 - 35m; 69; Printemps, Automne; 4a 7c; Modérée | 20min; Sud; 10m; 35m; 20m; Couenne; 47.124578; 6.131916
+Falaise Arcambal – Casse noisette; France ; Midi Pyrénées ; Lot ; arcambal; 10 - 10m; 5; Printemps; 4a 6b; Facile | 2min; Sud; 10m; 10m; 10m; Couenne; 44.441573; 1.556764
+Falaise Arcenant; France ; Bourgogne ; Côte d'Or ; arcenant; 15 - 25m; 100; Printemps, Automne; 4a 8a; Facile | 10min; Sud; 15m; 25m; 20m; Couenne; 47.149374; 4.823972
+Falaise Arrayoulet; France ; Midi Pyrénées ; Hautes Pyrénées ; Arrens-Marsous; 10 - 40m; 25; Printemps, Automne; 4a 5c; Raide | 10min; Sud; 10m; 40m; 20m; Couenne; 42.946159; -0.2282192
+Falaise Arudy; France ; Aquitaine ; Pyrénées Atlantiques ; Arudy; 5 - 60m; 200; Printemps, Été, Automne; 4a 8b; Facile | 30min; Toutes; 5m; 60m; 20m; Couenne; 43.100623; -0.4548260
+Falaise Aulp du Seuil; France ; Rhone Alpes ; Isère ; Saint Bernard du Touvet; 20 - 35m; 24; Printemps, Automne; 4b 7c; Raide | 60min; Sud-Est; 20m; 35m; 25m; Couenne; 45.364870; 5.904293
+Falaise Baderne; France ; Bourgogne ; Côte d'Or ; Vauchignon; 
+						5.7/10Note générale
+É; 100; Été, Automne, Hiver; 7a 9a; Facile | 2min; Nord, Nord-Est, Sud, Sud-Est, Sud-Ouest, Est; 50m; 30m; Couenne; in d'aventure; 46.983728; 4.643727
+Falaise Balazuc – Les Barasses; France ; Rhone Alpes ; Ardèche ; Balazuc; 10 - 25m; 71; Printemps, Automne, Hiver; 4a 8a; Facile | 5min; Sud; 10m; 25m; 15m; Couenne; 44.511875; 4.368072
+Falaise Balme Etrange; France ; Rhone Alpes ; Drome ; Choranche; 15 - 35m; 52; Printemps, Automne; 6a 8a; Modérée | 15min; Ouest; 15m; 35m; 25m; Couenne; 45.07136 ; 5.398776
+Falaise Baou de l’Aigle; France ; Provence Alpes Cote d'Azur ; Bouches du Rhone ; Cadolive; 15 - 40m; 80; Printemps, Été, Automne, Hiver; 4c 7c; Facile | 15min; Nord-Ouest, Sud-Est, Est; 15m; 40m; 25m; Couenne; 43.388498; 5.508207
+Falaise Barbicaghja; France ; Corse ;  ; Barbicaja; 10 - 35m; 28; Printemps, Automne; 5a 7b; Modérée | 20min; Sud, Est, Ouest; 10m; 35m; 30m; Couenne; 41.914032; 8.687382
+Falaise Bauchet; France ; Provence Alpes Cote d'Azur ; Var ; Draguignan; 10 - 50m; 100; Printemps, Été; 4a 8b; Modérée | 15min; Nord, Nord-Est, Est; 10m; 50m; 25m; Couenne; 43.749173; 6.321945
+Falaise Baume les Dames (Beaumerousse); France ; Franche Comté ; Doubs ; Baume-Les-Dames; 6 - 20m; 61; Printemps, Été, Automne; 4a 7c; Facile | 2min; Sud, Sud-Ouest; 6m; 20m; 18m; Couenne; 47.342840; 6.332107
+Falaise Baume Les Dames (Quint); France ; Franche Comté ; Doubs ; Baume-les-dames; 25 - 35m; 179; Printemps, Automne; 4a 9a; Facile | 6min; Sud, Sud-Est, Sud-Ouest; 25m; 35m; 30m; Couenne; 47.341687; 6.338403
+Falaise Baume les Dames (Sous-Buen); France ; Franche Comté ; Doubs ; Baumes les dames; 10 - 40m; 97; Printemps, Automne, Hiver; 4a 8a; Facile | 1min; Sud, Sud-Est, Est; 10m; 40m; 30m; Couenne; 47.348753; 6.371743
+Falaise Baume plan Chatel; France ; Rhone Alpes ; Savoie ; Sollières-Sardières; 20 - 35m; 20; Été; 5a 8a; Modérée | 20min; Ouest; 20m; 35m; 25m; Couenne; 45.244776; 6.800132
+Falaise Baume Rousse (Buis-les-Baronnies); France ; Rhone Alpes ; Drome ; Buis-les-Baronnies; 15 - 35m; 90; Printemps, Automne; 4a 8b; Facile | 5min; Sud, Sud-Est, Sud-Ouest, Est, Ouest; 15m; 35m; 25m; Couenne; 44.301587; 5.282772
+Falaise Baychon; France ; Midi Pyrénées ; Ariège ; Tarascon-sur-Ariège; 10 - 60m; 100; Printemps, Automne; 5a 8a; Modérée | 15min; Sud, Sud-Est; 10m; 60m; 35m; Couenne; 42.805372; 1.597819
+Falaise Beaume noir; France ; Rhone Alpes ; Drome ; beauvoisin; 10 - 75m; 90; Printemps, Été, Automne, Hiver; 4a 7b; Facile | 15min; Sud-Ouest, Ouest; 10m; 75m; 25m; Couenne, Voie de plusieurs longueurs; 44.302168; 5.234748
+Falaise Beaumiral; France ; Rhone Alpes ; Ardèche ; Le Pouzin; 5 - 25m; 57; Printemps, Été, Automne; 4a 7b; Modérée | 10min; Sud-Est, Est; 5m; 25m; 15m; Couenne; 44.749241; 4.740541
+Falaise Beauvoir; France ; Poitou Charentes ; Vienne ; Le petit beauvoir (Vienne); 10 - 20m; 100; Printemps, Automne, Hiver; 4a 8a; Facile | 10min; Sud; 10m; 20m; 18m; Couenne; 46.614325; 0.256658
+Falaise Bellecombe-Tarendol; France ; Rhone Alpes ; Drome ; Bellecombe-Tarendol; 15 - 80m; 42; Printemps, Automne; 4c 8a; Facile | 5min; Sud-Ouest; 15m; 80m; 30m; Couenne, Voie de plusieurs longueurs; 44.355047; 5.361426
+Falaise Blocs de Morsullaz; France ; Rhone Alpes ; Haute Savoie ; Mont-Saxonnex; 2 - 6m; 51; Printemps, Été, Automne; 4a 7b; Facile | 1min; Nord-Est, Sud, Sud-Est, Sud-Ouest; 2m; 6m; 4m; Bloc; 46.023558; 6.477574
+Falaise Blocs du Salève; Collonges-sous-Salève;  ;  ;  ; 2 - 7m; 400; Printemps, Automne; 4a 8a; Facile | 2min; Nord, Sud, Est, Ouest; 2m; 7m; 4m; Bloc; 46.135564; 6.162973
+Falaise Bodon; France ; Rhone Alpes ; Drome ; besignan; 20 - 30m; 12; Printemps, Été, Automne, Hiver; 6c 8a; Facile | 5min; Sud-Ouest; 20m; 30m; 25m; Couenne; 44.316110; 5.354332
+Falaise Boislaville; France ; Rhone Alpes ; Ardèche ; Privas; 2 - 6m; 140; Printemps, Été, Automne; 4a 7b; Facile | 5min; Nord-Ouest, Sud-Ouest, Ouest; 2m; 6m; 3m; Bloc; 44.741770; 4.570590
+Falaise Bonascre; France ; Midi Pyrénées ; Ariège ; Ax-les-Thermes; 8 - 25m; 23; Printemps, Automne; 5b 7c; Facile | 5min; Sud-Est; 8m; 25m; 15m; Couenne; 42.703766; 1.821627
+Falaise Bourdary – La Grotte des Fées; France ; Rhone Alpes ; Ardèche ; Lavilledieu; 20 - 25m; 29; Printemps, Été, Automne; 4a 7b; Facile | 15min; Est; 20m; 25m; 25m; Couenne; 44.586371; 4.453711
+Falaise Brochon; France ; Bourgogne ; Côte d'Or ; Brochon; 10 - 25m; 31; Printemps, Été, Automne; 4a 7a; Facile | 10min; Sud; 10m; 25m; 20m; Couenne; 47.241977; 4.953525
+Falaise Buoux; France ; Provence Alpes Cote d'Azur ; Vaucluse ; buoux; 15 - 80m; 500; Printemps, Automne; 4c 8c; Facile | 10min; Sud, Sud-Est, Sud-Ouest, Est, Ouest; 15m; 80m; 30m; Couenne; 43.822562; 5.382716
+Falaise Calamès; France ; Midi Pyrénées ; Ariège ; Bédeilhac-et-Aynat; 10 - 160m; 214; Printemps, Automne; 4a 8b; Modérée | 30min; Sud, Est; 10m; 160m; 85m; Voie de plusieurs longueurs; 42.869264; 1.561517
+Falaise Camp Romain; France ; Rhone Alpes ; Isère ; Saint Martin le Vinoux; 8 - 25m; 8; Printemps, Automne; 5c 7b; Modérée | 20min; Sud-Est, Est; 8m; 25m; 9m; Couenne; 45.220198; 5.704994
+Falaise Carrière de Brelivan; France ; Bretagne ; Côtes d'Armor ; Plouasne; 12 - 30m; 100; Printemps, Automne, Hiver; 4a 7c; Facile | 5min; Toutes; 12m; 30m; 20m; Couenne; 48.322251; -2.0449642
+Falaise Casse de Prelles; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Prelles; 15 - 20m; 60; Été, Automne; 4c 7a; Modérée | 20min; Nord; 15m; 20m; 15m; Couenne; 44.841401; 6.574587
+Falaise Castillon; France ; Provence Alpes Cote d'Azur ; Alpes Maritime ; Castillon; 15 - 30m; 30; Printemps, Automne, Hiver; 6b 8c; Modérée | 10min; Sud, Sud-Ouest; 15m; 30m; 25m; Couenne; 43.826227; 7.484268
+Falaise Céüse; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Sigoyer; 15 - 90m; 400; Printemps, Été, Automne; 5a 9b; Raide | 60min; Sud, Sud-Est, Sud-Ouest, Est, Ouest; 15m; 90m; 35m; Couenne; 44.496701; 5.942929
+Falaise Chabanne; France ; Rhone Alpes ; Ardèche ; Lussas; 10 - 20m; 160; Printemps, Été, Automne; 4b 8a; Facile | 10min; Nord-Ouest; 10m; 20m; 15m; Couenne; 44.623589; 4.458550
+Falaise Chaignay; France ; Bourgogne ; Côte d'Or ; Chaignay; 4 - 5m; 10; Printemps, Automne; 6a 6c; Facile | 1min; Sud; 4m; 5m; 5m; Bloc; 47.478953; 5.087560
+Falaise Chamandrin; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Chamandrin; 10 - 12m; 25; Printemps, Été, Automne; 4b 7a; Facile | 5min; Est; 10m; 12m; 12m; Couenne; 44.881166; 6.615786
+Falaise Chambolle; France ; Bourgogne ; Côte d'Or ; Chambolle-Musigny; 15 - 25m; 70; Printemps, Automne, Hiver; 4b 8a; Facile | 15min; Sud; 15m; 25m; 20m; Couenne; 47.189073; 4.943971
+Falaise Chamtadu; France ; Rhone Alpes ; Ardèche ; Lanas; 15 - 20m; 33; Printemps, Été, Automne; 4a 6c; Facile | 5min; Est; 15m; 20m; 18m; Couenne; 44.523804; 4.391784
+Falaise Chapelle Saint-Gras; France ; Rhone Alpes ; Haute Savoie ; Mieussy; 7 - 44m; 200; Printemps, Été, Automne; 5b 8c; Facile | 10min; Nord; 7m; 44m; 25m; Couenne; 46.130229; 6.540631
+Falaise Chat Gourmand; France ; Rhone Alpes ; Ardèche ; Le Pouzin; 5 - 20m; 150; Printemps, Automne, Hiver; 4c 7c; Modérée | 20min; Sud, Sud-Ouest; 5m; 20m; 15m; Bloc, Couenne; 44.765380; 4.730000
+Falaise Château du roi; France ; Rhone Alpes ; Isère ; Vizille; 10 - 26m; 27; Printemps, Automne; 4a 6c; Facile | 5min; Est; 10m; 26m; 20m; Couenne; 45.078047; 5.775412
+Falaise Châteauvert – Vallon Sourn; France ; Provence Alpes Cote d'Azur ; Var ; Châteauvert; 15 - 40m; 220; Printemps, Automne; 4a 8b; Facile | 5min; Sud, Sud-Est, Sud-Ouest, Est, Ouest; 15m; 40m; 25m; Couenne; 43.493443; 6.044447
+Falaise Châtillon; France ; Rhone Alpes ; Haute Savoie ; Châtillon-sur-Cluses; 10 - 22m; 19; Printemps, Été, Automne, Hiver; 6a 8c; Facile | 8min; Sud, Sud-Ouest; 10m; 22m; 15m; Couenne; 46.088315; 6.55844]
+Falaise Chavoul; France ; Rhone Alpes ; Drome ; montbrun les bains; 10 - 20m; 20; Printemps, Été, Automne; 4a 7b; Facile | 5min; Nord-Ouest, Ouest; 10m; 20m; 15m; Couenne; 44.156092;  5.43590
+Falaise Chez Roger; France ; Rhone Alpes ; Isère ; Seyssinet Pariset; 20 - 20m; 18; Printemps, Été, Automne; 5c 7c; Facile | 10min; Sud, Sud-Est; 20m; 20m; 20m; Couenne; 45.171720; 5.670061
+Falaise Claret; France ; Languedoc Roussillon ; Hérault ; Les Embruscalles; 15 - 35m; 150; Printemps, Automne, Hiver; 5b 8c; Modérée | 10min; Sud, Sud-Est; 15m; 35m; 30m; Couenne; 43.871715; 3.869804
+Falaise Clémont; France ; Franche Comté ; Doubs ; Montécheroux; 14 - 25m; 72; Automne, Hiver; 4c 8c; Facile | 5min; Sud; 14m; 25m; 22m; Couenne; 47.357751; 6.779122
+Falaise Clue de plaisians; France ; Rhone Alpes ; Drome ; plaisians; 10 - 50m; 35; Printemps, Été, Automne, Hiver; 4b 7c; Facile | 1min; Sud, Sud-Ouest; 10m; 50m; 30m; Couenne, Voie de plusieurs longueurs; 44.226965; 5.307855
+Falaise Col d’Ech; France ; Midi Pyrénées ; Hautes Pyrénées ; Omex; 25 - 40m; 50; Printemps, Hiver; 4b 7c; Modérée | 30min; Ouest; 25m; 40m; 30m; Couenne; 43.087451; -0.0931474
+Falaise Col de Saint-Saturnin; France ; Rhone Alpes ; Savoie ; Chambery; 12 - 30m; 20; Printemps, Automne; 6a 7c; Facile | 5min; Sud; 12m; 30m; 22m; Couenne; 45.600745; 5.937166
+Falaise Col du chat; France ; Rhone Alpes ; Savoie ; Hameau du col du chat; 25 - 35m; 45; Printemps, Été, Automne; 6a 8b; Facile | 5min; Nord-Est; 25m; 35m; 30m; Couenne; 45.689484; 5.850924
+Falaise Col du Roux; France ; Rhone Alpes ; Drome ; Eyroles; 15 - 25m; 20; Printemps, Automne, Hiver; 4a 9a; Facile | 5min; Sud-Ouest, Ouest; 15m; 25m; 20m; Couenne; 44.407925; 5.220308
+Falaise Collias; France ; Languedoc Roussillon ; Gard ; Collias; 15 - 80m; 220; Printemps, Automne, Hiver; 4a 8b; Facile | 15min; Sud, Sud-Est, Sud-Ouest; 15m; 80m; 30m; Couenne, Voie de plusieurs longueurs; 43.951047; 4.474724
+Falaise Combe de l’ermitage; France ; Provence Alpes Cote d'Azur ; Vaucluse ; Villes-sur-Auzon; 20 - 30m; 83; Printemps, Automne, Hiver; 4c 8a; Facile | 5min; Sud, Sud-Est; 20m; 30m; 25m; Couenne; 44.062182; 5.252294
+Falaise Comboire; France ; Rhone Alpes ; Isère ; Claix; 15 - 80m; 151; Printemps, Automne, Hiver; 4a 8c; Facile | 5min; Sud, Sud-Est, Sud-Ouest; 15m; 80m; 40m; Couenne, Voie de plusieurs longueurs; 45.133708; 5.677077
+Falaise Connelles; France ; Haute Normandie ; Eure ; Connelles; 10 - 38m; 130; Printemps; 4a 7b; Facile | 4min; Sud, Sud-Ouest; 10m; 38m; 25m; Couenne; 49.277482; 1.271785
+Falaise Corbières; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Pont-du-Fossé; 15 - 50m; 70; Printemps, Automne; 5c 8a; Modérée | 15min; Sud-Est; 15m; 50m; 30m; Couenne; 44.680348; 6.255635
+Falaise Cormatin; France ; Bourgogne ; Saone et Loire ; Cormatin; 10 - 15m; 25; Printemps, Automne; 5a 8a; Facile | 5min; Nord-Est, Est; 10m; 15m; 12m; Couenne; 46.533698; 4.683636
+Falaise Cormot; France ; Bourgogne ; Saone et Loire ; Cormot Le Petit; 10 - 35m; 275; Printemps, Automne; 4a 7c; Facile | 15min; Sud; 10m; 35m; 30m; Couenne; 46.971894; 4.653941
+Falaise Côté Court; France ; Rhone Alpes ; Drome ; Oriol-en-Royans; 15 - 25m; 32; Hiver; 6c 9a; Facile | 8min; Sud; 15m; 25m; 20m; Couenne; 44.973663; 5.243353
+Falaise Courpatas; France ; Rhone Alpes ; Ardèche ; Louyre; 15 - 30m; 110; Printemps, Été, Automne; 4c 8a; Facile | 10min; Ouest; 15m; 30m; 20m; Couenne; 44.675001; 4.477427
+Falaise Crussol top secret; France ; Rhone Alpes ; Ardèche ; Saint Peray; 8 - 20m; 20; Printemps, Été, Automne, Hiver; 4c 8a; Modérée | 15min; Sud-Ouest; 8m; 20m; 15m; Couenne; 44.935814; 4.848423
+Falaise D.J. Face; France ; Rhone Alpes ; Isère ; Fontaine; 25 - 60m; 91; Printemps, Été, Automne; 6a 8c; Modérée | 30min; Nord-Est, Est; 25m; 60m; 30m; Couenne; 45.195042; 5.658431
+Falaise Dauphins; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Pont-du-Fossé; 8 - 25m; 55; Printemps, Automne; 4a 7b; Facile | 5min; Sud; 8m; 25m; 17m; Couenne; 44.679334; 6.254525
+Falaise Dent de Crolles; France ; Rhone Alpes ; Isère ; Saint Pancrasse; 20 - 150m; 45; Printemps, Été, Automne; 4a 8a; Raide | 70min; Sud, Sud-Ouest, Ouest; 20m; 150m; 25m; Couenne, Voie de plusieurs longueurs; 45.309696; 5.852236
+Falaise Désert de l’écureuil; France ; Rhone Alpes ; Isère ; Seyssinet Pariset; 15 - 40m; 10; Printemps, Automne; 6a 6b; Facile | 1min; Sud-Ouest; 15m; 40m; 35m; Couenne; 45.176803; 5.677742
+Falaise Dun-les-Places (Rocher du Chien); France ; Bourgogne ; Nièvre ; Dun-les-Places; 15 - 40m; 10; Printemps, Automne; 6a 6b; Facile | 1min; Toutes; 30m; 15m; Couenne; if; 47.284685; 4.043186
+Falaise Entraygues; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Vallouise; 15 - 25m; 32; Printemps, Été; 6a 9a; Facile | 5min; Nord; 15m; 25m; 20m; Couenne; 44.830476; 6.403334
+Falaise Entreserres; France ; Midi Pyrénées ; Ariège ; Ax-les-Thermes; 10 - 45m; 23; Printemps, Été, Automne; 4a 6c; Modérée | 10min; Nord-Ouest; 10m; 45m; 25m; Couenne; 42.716324; 1.850209
+Falaise Eson-Pont de Barret; France ; Rhone Alpes ; Drome ; Pont de Barret; 20 - 35m; 80; Hiver; 5b 7c; Modérée | 30min; Sud, Ouest; 20m; 35m; 30m; Couenne; 44.608413; 5.018584
+Falaise Espace Comboire; France ; Rhone Alpes ; Isère ; Seyssins; 15 - 70m; 138; Printemps, Automne; 4c 8b; Facile | 15min; Est; 15m; 70m; 25m; Couenne; 45.146399; 5.686572
+Falaise Falaise de Balugue; France ; Midi Pyrénées ; Hautes Pyrénées ; Grézian; 10 - 30m; 25; Printemps, Été, Automne; 4a 7c; Facile | 10min; Nord-Ouest; 10m; 30m; 20m; Couenne; 42.883955; 0.351573
+Falaise Falaise de la Puya; France ; Rhone Alpes ; Haute Savoie ; Le Petit Bornand; 10 - 35m; 30; Printemps, Été, Automne; 4a 6b; Facile | 2min; Ouest; 10m; 35m; 25m; Couenne; 45.980832; 6.388002
+Falaise Fetid Beach; France ; Provence Alpes Cote d'Azur ; Bouches du Rhone ; Apt; 10 - 25m; 50; Printemps, Été, Automne; 6c 9a; Facile | 10min; Nord, Nord-Ouest; 10m; 25m; 18m; Couenne; 43.857946; 5.325794
+Falaise Fixin; France ; Bourgogne ; Côte d'Or ; Fixin; 10 - 30m; 220; Printemps, Été, Automne; 4b 8c; Facile | 20min; Sud; 10m; 30m; 25m; Couenne; 47.250543; 4.953501
+Falaise Font Romeu – Rocher du golf; France ; Languedoc Roussillon ; Pyrénées orientales ; Font-Romeu; 20 - 20m; 25; Printemps, Automne; 4c 7a; Facile | 10min; Sud, Sud-Ouest, Ouest; 20m; 20m; 20m; Couenne; 42.509782; 2.034254
+Falaise Fontainebleau – 95.2; France ; Ile de France ; Seine et Marne ; Noisy-sur-École; 2 - 7m; 300; Printemps, Automne, Hiver; 4a 8b; Facile | 10min; Toutes; 2m; 7m; 4m; Bloc; 48.385346; 2.53115]
+Falaise Fontainebleau – Gorges du Houx; France ; Ile de France ; Seine et Marne ; Fontainebleau; 3 - 7m; 200; Printemps, Automne, Hiver; 4a 8a; Facile | 10min; Toutes; 3m; 7m; 5m; Bloc; 48.402510; 2.653039
+Falaise Fontainebleau – Isatis; France ; Ile de France ; Seine et Marne ; Arbonne la forêt; 3 - 6m; 520; Printemps, Automne, Hiver; 4a 8b; Facile | 10min; Toutes; 3m; 6m; 5m; Bloc; 48.409623; 2.600189
+Falaise Fontainebleau – L’éléphant; France ; Ile de France ; Seine et Marne ; Larchant; 2 - 10m; 400; Printemps, Automne, Hiver; 4a 8b; Facile | 10min; Toutes; 2m; 10m; 4m; Bloc; 48.293888; 2.594031
+Falaise Fontainebleau – La Roche aux Sabots; France ; Ile de France ; Seine et Marne ; Noisy sur Ecole; 2 - 5m; 250; Printemps, Automne, Hiver; 4a 8a; Facile | 8min; Toutes; 2m; 5m; 4m; Bloc; 48.37499 ; 2.514251
+Falaise Fontainebleau – Le Bas Cuvier; France ; Ile de France ; Seine et Marne ; Barbizon; 2 - 10m; 450; Printemps, Automne, Hiver; 4a 8c; Facile | 5min; Toutes; 2m; 10m; 4m; Bloc; 48.447091; 2.638937
+Falaise Fontainebleau – Les gorges d’Apremont; France ; Ile de France ; Seine et Marne ; Barbizon; 2 - 7m; 520; Automne, Hiver; 4a 8c; Facile | 10min; Toutes; 2m; 7m; 4m; Bloc; 48.436328; 2.629246
+Falaise Fontainebleau – Petit Bois; France ; Ile de France ; Seine et Marne ; Nemours; 3 - 7m; 240; Printemps, Automne, Hiver; 4a 8b; Facile | 1min; Toutes; 3m; 7m; 5m; Bloc; 48.263986; 2.670938
+Falaise Fontainebleau – Rocher Canon; France ; Ile de France ; Seine et Marne ; Bois le roi; 2 - 7m; 550; Printemps, Automne, Hiver; 4a 8b; Facile | 10min; Toutes; 2m; 7m; 4m; Bloc; 48.463102; 2.663038
+Falaise Fontainebleau – Rocher Gréau; France ; Ile de France ; Seine et Marne ; Nemours; 3 - 6m; 110; Printemps, Automne, Hiver; 4a 8c; Facile | 5min; Toutes; 3m; 6m; 5m; Bloc; 48.261943; 2.685551
+Falaise Fontgarnide; France ; Rhone Alpes ; Ardèche ; Salavas; 7 - 40m; 105; Printemps, Été, Automne, Hiver; 4b 8b; Facile | 5min; Ouest; 7m; 40m; 30m; Couenne; 44.394787; 4.366464
+Falaise Fort de mevouillon; France ; Rhone Alpes ; Drome ; mevouillon; 15 - 40m; 50; Printemps, Été, Automne, Hiver; 4c 8c; Modérée | 15min; Est, Ouest; 15m; 40m; 25m; Bloc, Couenne; 44.235575; 5.480631
+Falaise Francardo; France ; Corse ;  ; Francardo; 10 - 25m; 100; Printemps, Été, Automne; 5a 8a; Facile | 20min; Nord, Nord-Est, Ouest; 10m; 25m; 20m; Couenne; 42.395010; 9.194633
+Falaise Frontenac (La Lirette); France ; Aquitaine ; Gironde ; Frontenac (gironde); 10 - 15m; 115; Printemps, Automne, Hiver; 5a 7a; Facile | 5min; Sud, Sud-Est, Est; 10m; 15m; 12m; Couenne; 44.733610; -0.1638473
+Falaise Géligny; France ; Bourgogne ;  ; Sombernon; 10 - 25m; 80; Printemps, Été, Automne; 4a 7a; Facile | 10min; Nord-Ouest, Ouest; 10m; 25m; 20m; Couenne; 47.303459; 4.668512
+Falaise Génat; France ; Midi Pyrénées ; Ariège ; Génat; 8 - 45m; 100; Printemps, Automne; 5c 8c; Facile | 15min; Sud, Sud-Est, Sud-Ouest; 8m; 45m; 25m; Couenne; 42.816527; 1.564586
+Falaise Génos; France ; Midi Pyrénées ; Hautes Pyrénées ; Génos; 6 - 12m; 10; Printemps, Automne; 4a 5b; Facile | 3min; Sud; 6m; 12m; 10m; Couenne; 42.808896; 0.406306
+Falaise Glésy; France ; Rhone Alpes ; Isère ; Saint Bernard du Touvet; 25 - 35m; 65; Printemps, Automne; 5b 8b; Modérée | 10min; Sud, Sud-Est, Est; 25m; 35m; 29m; Couenne; 45.336897; 5.912940
+Falaise Gorges du Tarn (Amphithéâtre); France ; Languedoc Roussillon ; Lozère ; Les Vignes (48); 15 - 45m; 21; Printemps, Automne; 6b 8b; Modérée | 20min; Sud-Est; 15m; 45m; 30m; Couenne; 44.308103; 3.246201
+Falaise Gorges du Tarn (Calmez-vous); France ; Languedoc Roussillon ; Lozère ; Les Vignes; 15 - 25m; 29; Printemps, Automne; 6a 8a; Facile | 5min; Sud-Est; 15m; 25m; 20m; Couenne; 44.308809; 3.248637
+Falaise Gorges du Tarn (Figues au cul); France ; Languedoc Roussillon ; Lozère ; Les vignes (48); 20 - 50m; 14; Printemps, Été, Automne; 5a 8b; Facile | 2min; Sud-Ouest, Ouest; 20m; 50m; 30m; Couenne; 44.305028; 3.243714
+Falaise Gorges du Tarn (L’oasif); France ; Languedoc Roussillon ; Lozère ; Les Vignes (48); 15 - 35m; 22; Printemps, Automne; 6c 8c; Facile | 5min; Sud-Ouest; 15m; 35m; 30m; Couenne; 44.30681 ; 3.254904
+Falaise Gorges du Tarn (Navire); France ; Languedoc Roussillon ; Lozère ; Les Vignes (48); 18 - 35m; 19; Printemps, Automne; 6a 7c; Facile | 10min; Sud-Est; 18m; 35m; 25m; Couenne; 44.310429; 3.248025
+Falaise Gorges du Tarn (Tennessee); France ; Languedoc Roussillon ; Lozère ; Les Vignes (48); 10 - 70m; 25; Printemps, Automne; 5c 8b; Facile | 5min; Sud, Sud-Ouest, Ouest; 10m; 70m; 35m; Couenne; 44.307984; 3.247249
+Falaise Gorges du Tarn (Trésor du zèbre); France ; Languedoc Roussillon ; Lozère ; Les Vignes; 17 - 35m; 19; Printemps, Automne; 6a 7c; Modérée | 10min; Nord-Ouest, Sud, Sud-Ouest, Ouest; 17m; 35m; 25m; Couenne; 44.308381; 3.252428
+Falaise Grotte des branches; France ; Rhone Alpes ; Ardèche ; Salavas; 15 - 60m; 50; Été, Automne; 6b 8c; Raide | 15min; Nord; 15m; 60m; 25m; Couenne; 44.380956; 4.409176
+Falaise Hautepierre; France ; Franche Comté ; Doubs ; Hautepierre le Châtelet; 20 - 90m; 112; Printemps, Automne, Hiver; 4a 8b; Facile | 5min; Sud; 20m; 90m; 35m; Couenne, Voie de plusieurs longueurs; 47.050983; 6.279405
+Falaise Hourat; France ; Aquitaine ; Pyrénées Atlantiques ; Laruns; 45 - 60m; 30; Printemps, Été, Automne, Hiver; 5c 8a; Modérée | 20min; Sud, Sud-Est; 45m; 60m; 50m; Couenne; 42.979904; -0.4230954
+Falaise I Curriali; France ; Corse ;  ; Île-Rousse; 10 - 20m; 25; Printemps, Été, Automne; 4a 8a; Facile | 5min; Nord, Ouest; 10m; 20m; 20m; Couenne; 42.613891; 8.939400
+Falaise Jeau; France ; Rhone Alpes ; Isère ; Salavas; 10 - 15m; 22; Printemps, Été, Automne, Hiver; 4a 7c; Facile | 5min; Sud; 10m; 15m; 12m; Couenne; 44.392487; 4.387021
+Falaise Junac; France ; Midi Pyrénées ; Ariège ; Capoulet-et-Junac; 15 - 30m; 27; Printemps, Été, Automne; 5b 8a; Facile | 15min; Sud-Est; 15m; 30m; 20m; Couenne; 42.791088; 1.568655
+Falaise Kerlouan; France ; Bretagne ; Finistère ; Kerlouan; 3 - 8m; 1000; Printemps, Été; 4a 8b; Facile | 1min; Toutes; 3m; 8m; 5m; Bloc; 48.669623; -4.3637180
+Falaise Krappenfels-Gimbelhof et Loewenstein; France ; Alsace ; Bas Rhin ; Lembach; 15 - 20m; 29; Printemps, Été, Automne; 5b 7c; Raide | 15min; Sud, Est, Ouest; 15m; 20m; 18m; Bloc, Couenne; 49.052604; 7.786426
+Falaise Krappenfels-Lutzelbourg; Lutzelbourg;  ;  ;  ; 10 - 20m; 110; Printemps, Été, Automne; 5a 8c; Facile | 15min; Sud; 10m; 20m; 18m; Couenne; 48.737779; 7.256248
+Falaise L’Arselle; France ; Rhone Alpes ; Isère ; Chamrousse; 12 - 15m; 37; Printemps, Automne; 4a 6a; Facile | 15min; Sud-Est; 12m; 15m; 15m; Couenne; 45.093125; 5.877900
+Falaise L’auberge espagnole; France ; Rhone Alpes ; Drome ; Oriol en royans; 15 - 35m; 67; Automne; 5c 8c; Facile | 25min; Sud, Sud-Est; 15m; 35m; 25m; Couenne; 44.978154; 5.255107
+Falaise L’Eau Vive; France ; Rhone Alpes ; Haute Savoie ; Annecy; 12 - 35m; 25; Printemps, Automne; 6a 8b; Modérée | 25min; Ouest; 12m; 35m; 20m; Couenne; 45.856328; 6.102305
+Falaise L’échappatoire; France ; Corse ;  ; Ajaccio; 10 - 20m; 14; Printemps, Automne; 5c 6c; Modérée | 20min; Ouest; 10m; 20m; 20m; Couenne; 41.943380; 8.677734
+Falaise L’île-aux-Pies; France ; Bretagne ; Ille et Vilaine ; Bains-sur-Oust; 20 - 25m; 65; Printemps, Automne; 4a 7b; Facile | 10min; Ouest; 20m; 25m; 23m; Couenne; 47.708147; -2.1176050
+Falaise l’Isolé; France ;  ;  ; Connelles; 5 - 15m; 8; Printemps, Été; 4a 6b; Modérée | 5min; Nord, Sud, Est, Ouest; 5m; 15m; 12m; Couenne; 49.272596; 1.271804
+Falaise La Baleine; France ; Provence Alpes Cote d'Azur ; Vaucluse ; Saint-Léger-du-Ventoux; 20 - 40m; 100; Printemps, Été; 6a 8c; Modérée | 15min; Nord-Est, Sud, Sud-Est, Est; 20m; 40m; 28m; Couenne; 44.217239; 5.235462
+Falaise La Balme de Yenne; France ; Rhone Alpes ; Savoie ; Chambery; 15 - 45m; 64; Printemps, Été, Automne; 6b 9a; Facile | 2min; Nord; 15m; 45m; 24m; Couenne; 45.708067; 5.724729
+Falaise La Barmaud; France ; Franche Comté ; Doubs ; Ornans; 15 - 40m; 195; Été, Automne; 4a 8c; Modérée | 20min; Nord, Nord-Est, Nord-Ouest, Sud-Ouest, Ouest; 15m; 40m; 35m; Couenne; 47.106277; 6.108087
+Falaise La Bastille; France ; Rhone Alpes ; Isère ; Saint Martin le Vinoux; 10 - 50m; 75; Printemps, Été, Automne, Hiver; 4a 7c; Facile | 5min; Sud-Ouest; 10m; 50m; 25m; Couenne; 45.202542; 5.722804
+Falaise La Betta; France ; Rhone Alpes ; Isère ; Laval; 10 - 30m; 15; Été; 4b 7a; Modérée | 15min; Nord; 10m; 30m; 20m; Couenne; 45.213184; 5.993835
+Falaise La Boissière; France ; Pays de la Loire ; Vendée ; Mouchamps; 18 - 33m; 20; Été, Automne; 4a 6a; Facile | 1min; Nord-Est; 18m; 33m; 30m; Couenne; 46.785389; -1.0244880
+Falaise La Brême; France ; Franche Comté ; Doubs ; Ornans; 20 - 40m; 150; Automne, Hiver; 4a 8a; Modérée | 20min; Sud, Sud-Ouest, Ouest; 20m; 40m; 30m; Couenne, Voie de plusieurs longueurs; 47.118913; 6.126487
+Falaise La Capelle; France ; Languedoc Roussillon ; Gard ; La capelle et Masmolène; 2 - 8m; 250; Automne, Hiver; 4a 8b; Facile | 5min; Toutes; 2m; 8m; 4m; Bloc; 44.052501; 4.532643
+Falaise La Combe d’Arveaux; France ; Bourgogne ; Côte d'Or ; Lantenay; 3 - 30m; 310; Printemps, Automne; 4a 7c; Facile | 10min; Sud, Sud-Est, Sud-Ouest, Est, Ouest; 3m; 30m; 22m; Couenne; 47.348654; 4.854571
+Falaise La combe obscure; France ; Provence Alpes Cote d'Azur ; Vaucluse ; bédoin; 10 - 40m; 55; Printemps, Automne; 4a 7c; Modérée | 20min; Sud; 10m; 40m; 35m; Couenne; 44.148484; 5.151516
+Falaise La concession – Faron Nord; France ; Provence Alpes Cote d'Azur ; Var ; Toulon; 15 - 45m; 60; Printemps, Été, Automne; 5b 8c; Raide | 5min; Nord; 15m; 45m; 30m; Couenne; 43.147270; 5.959122
+Falaise la croix des têtes; France ; Rhone Alpes ; Savoie ; saint julien mont denis; 250 - 630m; 15; Printemps, Automne; 6a 8a; Raide | 150min; Sud-Ouest, Est; 250m; 630m; 300m; Voie de plusieurs longueurs; 45.265584; 6.439962
+Falaise La Culaz; France ; Rhone Alpes ; Haute Savoie ; Le Grand Bornand; 10 - 25m; 46; Printemps, Automne; 4a 8a; Facile | 10min; Sud-Est; 10m; 25m; 15m; Couenne; 45.966641; 6.421184
+Falaise La Flachère; France ; Rhone Alpes ; Isère ; Saint Vincent de Mercuze; 10 - 20m; 21; Printemps, Automne; 4a 7c; Facile | 5min; Sud, Sud-Est; 10m; 20m; 15m; Couenne; 45.394728; 5.951972
+Falaise La Goulandière; France ; Rhone Alpes ; Drome ; Balme de rencurel; 15 - 40m; 47; Printemps, Été; 5c 7c; Modérée | 25min; Sud-Est; 15m; 40m; 35m; Couenne; 45.086157; 5.458581
+Falaise La Grande Falaise Freissinières; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Freissinières; 12 - 150m; 130; Printemps, Automne; 5a 8c; Modérée | 15min; Sud, Sud-Ouest; 12m; 150m; 25m; Couenne; 44.756745; 6.54665]
+Falaise la grisiere; France ; Bourgogne ; Saone et Loire ; Mâcon; 10 - 20m; 38; Printemps, Été, Automne; 5a 6c; Facile | 5min; Nord, Nord-Est, Est; 10m; 20m; 15m; Couenne; 46.335935; 4.818139
+Falaise La Justice (Belfort); France ; Franche Comté ; Territoire de Belfort ; Belfort; 10 - 20m; 100; Printemps, Été, Automne; 4b 7c; Facile | 5min; Nord-Ouest; 10m; 20m; 15m; Couenne; 47.644234; 6.877643
+Falaise La Payre; France ; Rhone Alpes ; Ardèche ; Le Pouzin; 20 - 30m; 100; Printemps, Automne, Hiver; 5b 8a; Facile | 10min; Sud; 20m; 30m; 25m; Couenne; 44.731404; 4.735000
+Falaise La pierre du Quart (pierre de carré); France ; Rhone Alpes ; Savoie ; Chindrieux; 20 - 30m; 70; Printemps, Été, Automne, Hiver; 4c 8b; Modérée | 10min; Nord-Ouest, Sud, Sud-Ouest; 20m; 30m; 25m; Couenne; 45.786143; 5.863550
+Falaise La plage; France ; Rhone Alpes ; Drome ; Oriol en royans; 20 - 35m; 34; Automne, Hiver; 6a 8b; Facile | 10min; Sud, Sud-Est; 20m; 35m; 25m; Couenne; 44.971620; 5.240693
+Falaise La ramirole; France ; Provence Alpes Cote d'Azur ; Alpes de haute Provence ; Aiguines; 20 - 160m; 70; Été; 6c 9b; Raide | 20min; Nord; 20m; 160m; 40m; Couenne, Voie de plusieurs longueurs; 43.734891; 6.363294
+Falaise la roche de murs; France ; Pays de la Loire ; Maine et Loire ; murs-érigné; 15 - 25m; 5; Été; 5c 6b; Facile | 8min; Nord; 15m; 25m; 20m; Couenne; 47.403823; -0.5450999
+Falaise La Roche de Solutré; France ; Bourgogne ; Saone et Loire ; Solutré-Pouilly; 15 - 25m; 65; Printemps, Automne, Hiver; 4a 7b; Facile | 10min; Sud, Sud-Est, Sud-Ouest; 15m; 25m; 20m; Couenne; 46.298737; 4.718381
+Falaise La Roche Ronde; France ; Midi Pyrénées ; Ariège ; Rabat-les-Trois-Seigneurs; 10 - 80m; 50; Printemps, Automne; 4b 8b; Modérée | 35min; Sud, Sud-Est; 10m; 80m; 35m; Voie de plusieurs longueurs; 42.862360; 1.545853
+Falaise La roche sur le buis; France ; Rhone Alpes ; Drome ; la roche sur le buis; 2 - 50m; 50; Printemps, Automne, Hiver; 4a 8a; Modérée | 20min; Sud; 2m; 50m; 25m; Bloc, Couenne; 44.280727; 5.313251
+Falaise La Roche, le Tunnel; France ; Rhone Alpes ; Ardèche ; Vogüé; 15 - 25m; 29; Printemps, Été, Automne; 4a 7a; Facile | 5min; Nord; 15m; 25m; 19m; Couenne; 44.549897; 4.408489
+Falaise La Saume; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; ceillac; 12 - 25m; 43; Été; 6b 8c; Modérée | 60min; Nord-Est; 12m; 25m; 20m; Couenne; 44.658030; 6.727409
+Falaise la Spéleologue; France ; Haute Normandie ; Eure ; le Thuit 27700; 15 - 33m; 70; Printemps; 6a 8b; Facile | 10min; Sud; 15m; 33m; 25m; Couenne; 49.253475; 1.358854
+Falaise La Trouée; Connelles;  ;  ;  ; 8 - 12m; 8; Printemps, Été; 4b 5a; Facile | 3min; Ouest; 8m; 12m; 8m; Couenne; 49.276143; 1.271899
+Falaise Le Biclop; France ; Rhone Alpes ; Haute Savoie ; Annecy; 10 - 125m; 150; Printemps, Automne, Hiver; 4c 8b; Facile | 5min; Sud-Ouest; 10m; 125m; 25m; Couenne, Voie de plusieurs longueurs; 45.898983; 6.163963
+Falaise Le Bourrinoire; France ; Rhone Alpes ; Haute Savoie ; Fillinges; 2 - 6m; 50; Printemps, Été, Automne; 5c 8b; Facile | 20min; Ouest; 2m; 6m; 3m; Bloc; 46.175426; 6.376592
+Falaise Le Château; France ; Rhone Alpes ; Ardèche ; Chomerac; 5 - 25m; 42; Printemps, Été, Automne; 4a 6b; Facile | 15min; Nord; 5m; 25m; 20m; Couenne; 44.688899; 4.439721
+Falaise Le Cimai; France ; Provence Alpes Cote d'Azur ; Var ; Cimaï; 15 - 45m; 250; Automne, Hiver; 4a 8c; Facile | 10min; Sud, Sud-Est; 15m; 45m; 30m; Couenne; 43.17582 ; 5.842248
+Falaise Le cirque de Gens; France ; Rhone Alpes ; Ardèche ; Chauzon; 22 - 45m; 315; Printemps, Automne, Hiver; 4b 8a; Facile | 20min; Sud, Sud-Est, Sud-Ouest; 22m; 45m; 25m; Couenne, Voie de plusieurs longueurs; 44.479916; 4.345371
+Falaise Le cirque de Gens; France ; Rhone Alpes ; Ardèche ; Chauzon; 15 - 45m; 315; Printemps, Été, Automne, Hiver; 4b 8a; Facile | 15min; Sud; 15m; 45m; 30m; Couenne, Voie de plusieurs longueurs; 44.481075; 4.346122
+Falaise Le coup de sabre; France ; Rhone Alpes ; Isère ; Fontaine; 15 - 35m; 55; Printemps, Été, Automne; 5c 7b; Facile | 10min; Nord-Est; 15m; 35m; 30m; Couenne; 45.193137; 5.665726
+Falaise Le croë; France ; Rhone Alpes ; Savoie ; Aussois; 3 - 40m; 150; Été, Automne; 4a 8b; Modérée | 5min; Nord, Est, Ouest; 3m; 40m; 20m; Couenne; 45.230195; 6.747523
+Falaise Le Foron; France ; Rhone Alpes ; Haute Savoie ; Les Gets; 13 - 30m; 41; Été, Automne; 6a 8b; Modérée | 15min; Nord-Ouest, Sud-Ouest, Ouest; 13m; 30m; 18m; Couenne; 46.176164; 6.613565
+Falaise Le groseau; France ; Provence Alpes Cote d'Azur ; Vaucluse ; Malaucène; 15 - 25m; 65; Printemps; 4c 8b; Facile | 15min; Nord-Ouest; 15m; 25m; 20m; Couenne; 44.167825; 5.152805
+Falaise Le jardin d’Endieu; France ; Rhone Alpes ; Ardèche ; Berrias et Casteljau; 15 - 25m; 31; Printemps, Été, Automne, Hiver; 4a 7b; Facile | 10min; Sud, Sud-Est, Est; 15m; 25m; 20m; Couenne; 44.403832; 4.195060
+Falaise Le Kronthal; France ; Alsace ; Bas Rhin ; Marlenheim; 10 - 30m; 200; Printemps, Été, Automne, Hiver; 5a 9a; Facile | 1min; Sud; 10m; 30m; 20m; Couenne; 48.630272; 7.470597
+Falaise le Langenfels; France ; Alsace ; Bas Rhin ; hirschthal; 10 - 50m; 101; Été; 5a 8a; Modérée; Sud; 10m; 50m; 30m; Couenne; 49.049148; 7.776131
+Falaise Le Luisset; France ; Rhone Alpes ; Isère ; Saint Pancrasse; 25 - 100m; 235; Printemps, Automne; 4a 8b; Facile | 20min; Sud, Sud-Est; 25m; 100m; 30m; Couenne; 45.284323; 5.855948
+Falaise Le Mas d’Oris; France ; Rhone Alpes ; Isère ; Saint Martin le Vinoux; 10 - 35m; 38; Printemps, Automne, Hiver; 4a 7c; Facile | 10min; Sud, Sud-Ouest; 10m; 35m; 25m; Couenne; 45.204734; 5.719928
+Falaise Le Mont Dol; France ; Bretagne ; Ille et Vilaine ; Mont-Dol; 12 - 30m; 100; Printemps, Été, Automne, Hiver; 4a 7c; Facile | 5min; Toutes; 12m; 30m; 20m; Couenne; 48.570767; -1.7650766
+Falaise Le petit desert; France ; Rhone Alpes ; Isère ; Seyssins; 30 - 35m; 145; Printemps, Automne, Hiver; 4a 7c; Facile | 14min; Sud, Sud-Ouest, Ouest; 30m; 35m; 35m; Couenne; 45.183413; 5.678236
+Falaise Le Plantier; France ; Provence Alpes Cote d'Azur ; Alpes Maritime ; Contes; 3 - 21m; 146; Printemps, Été, Automne; 4a 7c; Facile | 10min; Sud-Ouest; 3m; 21m; 12m; Couenne; 43.824080; 7.302890
+Falaise Le Randouillet; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; font christiane; 10 - 25m; 90; Printemps, Automne; 4a 7c; Facile | 5min; Sud-Ouest; 10m; 25m; 20m; Couenne; 44.887856; 6.651167
+Falaise Le Rif d’Oriol; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; l'Argentifère la Bessée; 20 - 25m; 25; Printemps, Été, Automne; 5b 7c; Facile | 8min; Nord, Sud; 20m; 25m; 25m; Couenne; 44.802780; 6.568794
+Falaise Le Rimbau; France ; Languedoc Roussillon ; Pyrénées orientales ; Collioure; 10 - 25m; 25; Printemps, Automne, Hiver; 4a 6b; Facile | 15min; Toutes; 10m; 25m; 20m; Couenne; 42.508489; 3.051924
+Falaise Le Roc à Steph; France ; Midi Pyrénées ; Ariège ; Bédeilhac-et-Aynat; 8 - 35m; 45; Printemps, Automne; 4c 7c; Facile | 20min; Sud, Sud-Est, Sud-Ouest; 8m; 35m; 20m; Couenne; 42.863886; 1.558706
+Falaise Le rocher qui répond; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Plampinet; 15 - 30m; 45; Printemps, Été, Automne; 4a 7b; Facile | 5min; Ouest; 15m; 30m; 22m; Couenne; 44.994597; 6.665396
+Falaise Le Saussois; France ; Bourgogne ; Yonne ; Merry-sur-yonne; 10 - 50m; 250; Printemps, Automne, Hiver; 4a 8c; Facile | 2min; Sud, Sud-Est, Sud-Ouest, Est, Ouest; 10m; 50m; 25m; Couenne; 47.566013; 3.648462
+Falaise Le Suet; France ; Rhone Alpes ; Haute Savoie ; Taninges; 12 - 45m; 90; Printemps, Été, Automne; 5c 8c; Modérée | 10min; Sud-Ouest, Ouest; 12m; 45m; 22m; Couenne; 46.118463; 6.555121
+Falaise Le Thaurac; France ; Languedoc Roussillon ; Hérault ; St bauzille de Putois; 10 - 100m; 800; Printemps, Automne, Hiver; 4a 8c; Facile | 5min; Nord, Sud, Sud-Ouest, Ouest; 10m; 100m; 30m; Couenne, Voie de plusieurs longueurs; 43.907663; 3.744792
+Falaise Le Trou de la Lune; France ; Franche Comté ; Jura ; Poligny; 15 - 50m; 80; Printemps, Automne; 4c 8a; Facile | 1min; Sud-Ouest, Ouest; 15m; 50m; 25m; Couenne; 46.836970; 5.716222
+Falaise Le Verger; France ; Bretagne ; Ille et Vilaine ; Le verger; 10 - 20m; 50; Printemps, Été, Automne, Hiver; 4a 7a; Facile | 5min; Nord, Sud, Sud-Est, Sud-Ouest; 10m; 20m; 15m; Couenne; 48.055465; -1.9309115
+Falaise Le viel Audon; France ; Rhone Alpes ; Ardèche ; Balazuc; 10 - 35m; 57; Printemps, Été, Automne; 4a 8a; Facile | 15min; Est; 10m; 35m; 25m; Couenne; 44.506759; 4.362967
+Falaise Les Ayes; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Chalets des Ayes; 10 - 35m; 40; Printemps, Automne; 5c 7c; Facile | 1min; Sud, Sud-Ouest; 10m; 35m; 25m; Couenne; 44.850394; 6.656492
+Falaise Les branches; France ; Rhone Alpes ; Ardèche ; Salavas; 15 - 40m; 47; Printemps, Été, Automne; 6a 8c; Facile | 12min; Nord; 15m; 40m; 30m; Couenne, Voie de plusieurs longueurs; 44.380802; 4.409980
+Falaise Les Brieux; France ; Rhone Alpes ; Isère ; Saint Egrève; 15 - 25m; 40; Printemps, Automne; 4a 7c; Facile | 5min; Ouest; 15m; 25m; 20m; Couenne; 45.231306; 5.694394
+Falaise Les cabanes; France ; Rhone Alpes ; Ardèche ; Saint Maurice en Chalencon; 10 - 25m; 87; Printemps, Été, Automne; 4a 7b; Raide | 8min; Ouest; 10m; 25m; 20m; Couenne; 44.838147; 4.578372
+Falaise Les Communaux; France ; Rhone Alpes ; Isère ; Bernin; 8 - 12m; 24; Printemps, Automne; 4a 6b; Facile | 3min; Est; 8m; 12m; 10m; Couenne; 45.275414; 5.842688
+Falaise Les coteaux de Fleuriais; France ; Pays de la Loire ; Vendée ; Mortagne sur Sèvre; 2 - 12m; 250; Été, Automne, Hiver; 4a 7c; Facile | 5min; Sud; 2m; 12m; 5m; Bloc, Couenne; 46.98558 ; -0.9557019
+Falaise Les Eaux Claires; France ; Poitou Charentes ; Charente ; Puymoyen; 10 - 20m; 430; Printemps, Automne, Hiver; 4a 9a; Facile | 1min; Sud; 10m; 20m; 18m; Couenne; 45.607091; 0.178387
+Falaise Les Forges du diable; France ; Aquitaine ; Dordogne ; Bourdeilles; 10 - 25m; 100; Printemps, Automne, Hiver; 5b 8c; Facile; Sud, Sud-Est; 10m; 25m; 20m; Bloc, Couenne; 45.332998; 0.591373
+Falaise Les gorges de la Dourbie (Le Boffi); France ; Midi Pyrénées ; Aveyron ; Millau; 10 - 80m; 180; Printemps, Automne; 4a 9a; Facile | 35min; Sud, Sud-Ouest; 10m; 80m; 30m; Couenne; 44.111776; 3.147924
+Falaise Les Gorges du Loup – Secteur Déversé; France ; Provence Alpes Cote d'Azur ; Alpes Maritime ; Nice; 10 - 45m; 100; Été; 6a 9a; Raide | 5min; Est; 10m; 45m; 20m; Couenne; 43.739404; 7.001172
+Falaise Les Gorges du Verdon (Hulk); France ; Provence Alpes Cote d'Azur ; Alpes de haute Provence ; La Palud-sur-Verdon; 15 - 180m; 50; Printemps, Été; 5b 8c; Modérée | 20min; Nord-Ouest; 15m; 180m; 30m; Couenne; 43.784976; 6.394628
+Falaise Les Graniteurs; France ; Rhone Alpes ; Haute Savoie ; Combloux; 2 - 7m; 42; Printemps, Été, Automne; 4a 8a; Facile | 5min; Nord, Sud, Est, Ouest; 2m; 7m; 3.5m; Bloc; 45.900065; 6.647067
+Falaise Les grottes du Loup; France ; Midi Pyrénées ; Hautes Pyrénées ; Lourdes; 5 - 15m; 50; Été, Automne; 4a 7c; Facile | 5min; Nord; 5m; 15m; 10m; Couenne; 43.095760; -0.0609770
+Falaise Les Herbez; France ; Provence Alpes Cote d'Azur ; Alpes de haute Provence ; La fresquières-méolans revel; 10 - 90m; 180; Printemps, Été, Automne, Hiver; 4a 8c; Facile | 15min; Sud, Sud-Est; 10m; 90m; 35m; Couenne; 44.416371; 6.464509
+Falaise Les Herbez; France ; Provence Alpes Cote d'Azur ; Alpes de haute Provence ; Barcelonnette; 18 - 60m; 175; Printemps, Été, Automne, Hiver; 4c 9a; Facile | 15min; Sud, Sud-Est, Sud-Ouest; 18m; 60m; 45m; Couenne; 44.410042; 6.470286
+Falaise Les Îles; France ; Corse ;  ; L'Île Rousse; 10 - 15m; 25; Printemps, Été, Automne; 4a 6a; Facile | 5min; Nord-Est, Est; 10m; 15m; 15m; Couenne; 42.644368; 8.932828
+Falaise Les Jayères; France ; Rhone Alpes ; Isère ; Veurey-Voroize; 5 - 30m; 10; Printemps, Automne, Hiver; 4a 6c; Facile | 5min; Sud-Est, Est; 5m; 30m; 20m; Couenne; 45.265553; 5.616652
+Falaise Les Lames; France ; Rhone Alpes ; Isère ; Saint Martin le Vinoux; 15 - 35m; 58; Printemps, Automne; 4a 8b; Modérée | 20min; Sud-Ouest; 15m; 35m; 30m; Couenne; 45.203366; 5.721484
+Falaise Les rochers du Parc (Saussois); France ; Bourgogne ; Yonne ; Mailly le château; 10 - 25m; 170; Printemps, Automne; 4a 8c; Facile | 1min; Sud; 10m; 25m; 20m; Couenne; 47.582202; 3.647305
+Falaise Les Saillants; France ; Rhone Alpes ; Isère ; Saillants du Gua; 10 - 35m; 105; Printemps, Automne; 4a 8a; Facile | 15min; Sud-Est; 10m; 35m; 25m; Couenne; 45.032591; 5.635149
+Falaise Les Traverses; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Villard Meyer; 20 - 35m; 70; Printemps, Automne; 4b 8b; Facile | 5min; Sud; 20m; 35m; 25m; Couenne; 44.816139; 6.567754
+Falaise Les Vignettes; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Villard Meyer; 15 - 25m; 90; Printemps, Automne; 4c 7b; Facile | 10min; Sud, Sud-Est, Sud-Ouest, Est, Ouest; 15m; 25m; 20m; Couenne; 44.813213; 6.570458
+Falaise Les Vouillants; France ; Rhone Alpes ; Isère ; Fontaine; 20 - 100m; 211; Printemps, Été, Automne; 4a 8b; Facile | 5min; Nord, Nord-Est; 20m; 100m; 30m; Couenne, Voie de plusieurs longueurs; 45.190332; 5.677067
+Falaise Limas; France ; Rhone Alpes ; Rhone ; Limas; 10 - 15m; 32; Printemps, Été, Automne; 4a 7a; Facile | 3min; Toutes; 10m; 15m; 12m; Couenne; 45.967998; 4.701495
+Falaise Lortet; France ; Midi Pyrénées ; Hautes Pyrénées ; Lortet; 20 - 25m; 25; Printemps, Été, Automne; 4b 7b; Facile | 5min; Nord-Ouest; 20m; 25m; 20m; Couenne; 43.041974; 0.381742
+Falaise Lumbin; France ; Rhone Alpes ; Isère ; Lumbin; 4 - 4m; 19; Printemps, Automne, Hiver; 4a 6c; Facile | 5min; Sud-Est; 4m; 4m; 4m; Bloc; 45.306194; 5.903080
+Falaise Lumio; France ; Corse ;  ; Lumio; 10 - 30m; 25; Printemps, Automne; 4a 6c; Facile | 10min; Ouest; 10m; 30m; 20m; Couenne; 42.579709; 8.837181
+Falaise Malsaire; France ; Rhone Alpes ; Haute Savoie ; Mont-Saxonnex; 9 - 30m; 70; Printemps, Automne; 4a 8b; Facile | 5min; Sud, Sud-Ouest; 9m; 30m; 16m; Couenne; 46.052244; 6.463077
+Falaise Mancy; France ; Franche Comté ; Jura ; Lons Le Saunier; 15 - 20m; 40; Printemps, Automne, Hiver; 4a 7c; Facile | 5min; Sud; 15m; 20m; 20m; Couenne; 46.650393; 5.547603
+Falaise Maupas; France ; Rhone Alpes ; Drome ; Malaucène; 30 - 35m; 28; Printemps, Été, Automne; 7a 8b; Facile | 5min; Nord, Nord-Est; 30m; 35m; 30m; Couenne; 44.186966; 5.185106
+Falaise Mazet; France ; Rhone Alpes ; Ardèche ; Berrias et Casteljau; 15 - 45m; 121; Printemps, Été, Automne, Hiver; 4a 7c; Facile | 5min; Ouest; 15m; 45m; 30m; Couenne, Voie de plusieurs longueurs; 44.397240; 4.194803
+Falaise Médonnet; France ; Rhone Alpes ; Haute Savoie ; Combloux; 2 - 6m; 200; Printemps, Été, Automne; 4b 8a; Facile | 4min; Nord, Sud, Est, Ouest; 2m; 6m; 3m; Bloc; 45.915272; 6.632036
+Falaise Mollans-Beaume des Eyguiers; France ; Rhone Alpes ; Drome ; mollans sur ouveze; 10 - 35m; 150; Printemps, Automne, Hiver; 5a 9b; Facile | 10min; Nord, Nord-Est, Sud, Sud-Est; 10m; 35m; 25m; Couenne; 44.241033; 5.200180
+Falaise Mont-Dauphin; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Mont-Dauphin; 12 - 30m; 99; Printemps, Été, Automne; 4b 8a; Raide | 10min; Nord, Nord-Ouest, Ouest; 12m; 30m; 15m; Couenne; 44.669935; 6.620657
+Falaise Mont-Germain; France ; Franche Comté ; Doubs ; Mouthier-hautepierre; 15 - 40m; 50; Printemps, Automne, Hiver; 6a 8c; Facile | 10min; Sud; 15m; 40m; 20m; Couenne, Voie de plusieurs longueurs; 47.049062; 6.276857
+Falaise Mont-roc; France ; Midi Pyrénées ; Tarn ; Mont-roc; 8 - 15m; 60; Printemps, Été, Automne; 4a 7b; Facile | 10min; Sud, Sud-Ouest; 8m; 15m; 10m; Couenne; 43.805781; 2.368257
+Falaise Monte San Angelo; France ; Corse ;  ; Monte Silvareccio; 10 - 35m; 40; Printemps, Automne; 5c 8b; Modérée | 20min; Sud, Ouest; 10m; 35m; 20m; Couenne; 42.462837; 9.403975
+Falaise Mouriès; France ; Provence Alpes Cote d'Azur ; Bouches du Rhone ; Mouriès; 10 - 25m; 150; Printemps, Automne, Hiver; 4a 8c; Facile | 10min; Nord, Sud; 10m; 25m; 15m; Couenne; 43.712493; 4.875165
+Falaise Moustardé; France ; Aquitaine ; Pyrénées Atlantiques ; Laruns; 10 - 30m; 25; Printemps, Automne; 5b 6b; Modérée | 20min; Sud, Sud-Est; 10m; 30m; 20m; Couenne; 42.825834; -0.3985238
+Falaise Narbonne; France ; Rhone Alpes ; Isère ; Saint Martin le Vinoux; 20 - 40m; 29; Printemps, Automne; 6a 8b; Modérée | 15min; Est; 20m; 40m; 40m; Couenne; 45.217145; 5.703148
+Falaise Niaux; France ; Midi Pyrénées ; Ariège ; Niaux; 10 - 45m; 100; Printemps, Automne; 6a 8b; Modérée | 30min; Sud, Sud-Ouest, Ouest; 10m; 45m; 25m; Couenne; 42.822706; 1.595967
+Falaise Notre Dame du Cros; France ; Languedoc Roussillon ; Aude ; Caunes Minervois; 10 - 80m; 183; Printemps, Été, Automne; 4a 7c; Facile | 20min; Sud, Sud-Est, Sud-Ouest; 10m; 80m; 30m; Couenne, Voie de plusieurs longueurs; 43.334880; 2.545108
+Falaise Orpierre; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Orpierre; 15 - 190m; 500; Printemps, Automne; 4a 8c; Facile | 15min; Toutes; 15m; 190m; 30m; Couenne, Voie de plusieurs longueurs; 44.316254; 5.691943
+Falaise Pelleret; France ; Rhone Alpes ; Drome ; mevouillon; 10 - 35m; 35; Printemps, Été, Automne, Hiver; 5a 8a; Modérée | 10min; Sud; 10m; 35m; 25m; Couenne; 44.251562; 5.494965
+Falaise Pelvoux; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; pelvoux; 15 - 25m; 13; Été; 7a 8b; Facile | 5min; Nord; 15m; 25m; 20m; Couenne; 44.877008; 6.477599
+Falaise Pen Hir; France ;  ;  ; Camaret; 10 - 70m; 200; Printemps, Été, Automne; 4a 8a; Modérée | 2min; Sud, Sud-Ouest, Est, Ouest; 10m; 70m; 35m; Couenne, Voie de plusieurs longueurs; 48.255835; -4.6217679
+Falaise Pic Saint Loup; France ; Languedoc Roussillon ; Hérault ; Saint-Mathieu-de-Tréviers; 18 - 40m; 15; Été; 6c 9a; Raide | 50min; Nord; 18m; 40m; 30m; Couenne; 43.794963; 3.841438
+Falaise Pierre Champ Bertin; France ; Rhone Alpes ; Isère ; Bernin; 10 - 15m; 47; Printemps, Automne; 4a 8a; Facile | 10min; Toutes; 10m; 15m; 15m; Couenne; 45.273572; 5.848288
+Falaise Pierrot beach; France ; Rhone Alpes ; Drome ; Choranche; 15 - 50m; 89; Printemps, Automne; 5c 9a; Modérée | 15min; Sud-Ouest; 15m; 50m; 25m; Couenne; 45.071047; 5.399609
+Falaise Pietralba; France ; Corse ;  ; Pietralba; 10 - 25m; 20; Printemps, Automne; 5a 8a; Facile | 10min; Sud-Est; 10m; 25m; 20m; Couenne; 42.536196; 9.179635
+Falaise Pleysse; France ; Aquitaine ; Pyrénées Atlantiques ; Eaux Bonnes; 10 - 20m; 25; Printemps, Automne; 6a 7a; Raide | 50min; Sud; 10m; 20m; 15m; Couenne; 42.974625; -0.3677507
+Falaise Pont d’Auzon; France ; Languedoc Roussillon ; Gard ; Boisson (30); 10 - 25m; 50; Printemps, Été, Automne; 4a 6b; Facile | 1min; Nord, Nord-Ouest; 10m; 25m; 20m; Couenne; 44.204374; 4.249743
+Falaise Pont d’Espagne – secteur Plateau du Clôt; France ; Midi Pyrénées ; Hautes Pyrénées ; Cauterets; 10 - 25m; 70; Printemps, Été, Automne; 4a 7c; Modérée | 20min; Toutes; 10m; 25m; 15m; Couenne; 42.852278; -0.1457887
+Falaise Pont de Vence; France ; Rhone Alpes ; Isère ; Quaix-en-Chartreuse; 15 - 80m; 28; Printemps, Été, Automne; 4c 7b; Raide | 10min; Ouest; 15m; 80m; 25m; Couenne; 45.249361; 5.744562
+Falaise Pont des Gets; France ; Rhone Alpes ; Haute Savoie ; Les Gets; 12 - 20m; 14; Printemps, Été; 6c 8a; Raide | 5min; Ouest; 12m; 20m; 15m; Couenne; 46.131639; 6.631514
+Falaise Pont Saint Nicolas; France ; Languedoc Roussillon ; Gard ; Blauzac; 10 - 20m; 60; Printemps, Automne, Hiver; 4a 8b; Facile | 15min; Sud, Sud-Est; 10m; 20m; 15m; Couenne; 43.939963; 4.373703
+Falaise Port de Lers; France ; Midi Pyrénées ; Ariège ; Aulus-les-Bains; 12 - 35m; 62; Printemps, Automne; 5a 7c; Modérée | 20min; Toutes; 12m; 35m; 20m; Couenne; 42.801918; 1.397967
+Falaise Portu; France ; Corse ;  ; Marine de Porto; 10 - 15m; 29; Été, Automne; 4c 7a; Facile | 5min; Nord; 10m; 15m; 15m; Couenne; 42.267384; 8.693904
+Falaise Poussebou; France ; Rhone Alpes ; Isère ; Seyssinet Pariset; 4 - 4m; 200; Printemps, Automne, Hiver; 4a 8a; Facile | 10min; Toutes; 4m; 4m; 4m; Bloc; 45.160601; 5.647165
+Falaise Remigny; France ; Bourgogne ; Saone et Loire ; Remigny; 15 - 30m; 50; Printemps, Été; 4a 8a; Facile | 1min; Nord, Ouest; 15m; 30m; 20m; Couenne; 46.904998; 4.732608
+Falaise Roc d’Aude; France ; Languedoc Roussillon ; Pyrénées orientales ; Les Angles; 15 - 40m; 50; Printemps, Automne; 5a 8a; Facile | 10min; Sud, Sud-Ouest; 15m; 40m; 25m; Couenne; 42.553503; 2.035555
+Falaise Roc de la Foradade; France ; Languedoc Roussillon ; Pyrénées orientales ; Thuès-entre-Valls; 25 - 50m; 25; Printemps, Automne; 5a 6a; Raide | 45min; Sud; 25m; 50m; 25m; Couenne; 42.512989; 2.225428
+Falaise Roc de Sédour – Secteur Paroi principale; France ; Midi Pyrénées ; Ariège ; Surba; 150 - 250m; 5; Printemps, Automne; 5b 6b; Modérée | 25min; Sud-Est; 150m; 250m; 200m; Voie de plusieurs longueurs; 42.864475; 1.579753
+Falaise Roc de Sédour (Couennes); France ; Midi Pyrénées ; Ariège ; Bédeilhac-et-Aynat; 12 - 60m; 100; Printemps, Automne; 5c 8c; Modérée | 40min; Sud-Est, Sud-Ouest, Est, Ouest; 12m; 60m; 35m; Couenne; 42.868423; 1.572664
+Falaise Roc Mercadal; France ; Languedoc Roussillon ; Pyrénées orientales ; Puyvalador; 15 - 20m; 20; Printemps, Automne; 4c 7b; Modérée | 20min; Sud; 15m; 20m; 15m; Couenne; 42.663622; 2.109042
+Falaise Roche Brune; France ; Rhone Alpes ; Isère ; Le Grand Ratz; 25 - 50m; 42; Printemps, Automne; 5a 7b; Modérée | 20min; Sud; 25m; 50m; 30m; Couenne, Voie de plusieurs longueurs; 45.316680; 5.639350
+Falaise Roche Marie; France ; Bretagne ; Ille et Vilaine ; Saint-Aubin-du-Cormier; 6 - 10m; 25; Printemps, Été, Automne; 4a 6c; Facile | 2min; Toutes; 6m; 10m; 8m; Couenne; 48.260481; -1.3844906
+Falaise Rocher Baron; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Saint-Martin-de-Queyrières; 15 - 25m; 100; Printemps, Automne; 4a 7c; Facile | 2min; Sud; 15m; 25m; 20m; Couenne; 44.845980; 6.590500
+Falaise Rocher de Balcère; France ; Languedoc Roussillon ; Pyrénées orientales ; Les Angles; 10 - 30m; 25; Printemps, Automne; 4c 7a; Facile | 5min; Sud; 10m; 30m; 20m; Couenne; 42.587434; 2.054636
+Falaise Rocher de Planès; France ; Languedoc Roussillon ; Pyrénées orientales ; Planès; 20 - 20m; 25; Printemps, Automne; 4a 6b; Facile | 10min; Sud-Ouest, Ouest; 20m; 20m; 20m; Couenne; 42.498139; 2.136846
+Falaise Rocher des amoureux; France ; Rhone Alpes ; Savoie ; Modane; 10 - 30m; 92; Printemps, Été; 4a 8a; Facile | 1min; Toutes; 10m; 30m; 20m; Couenne; 45.212417; 6.690305
+Falaise Rocher des aures; France ; Rhone Alpes ; Drome ; Roche Saint Secret; 10 - 40m; 72; Printemps, Automne, Hiver; 4a 7c; Raide | 25min; Sud; 10m; 40m; 25m; Couenne; 44.470986; 5.053340
+Falaise Rocher des Bouillouses; France ; Languedoc Roussillon ; Pyrénées orientales ; Mont-Louis; 10 - 20m; 25; Printemps, Automne; 4a 6c; Facile | 10min; Sud-Ouest; 10m; 20m; 20m; Couenne; 42.540599; 2.056567
+Falaise Rocher des Brumes; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; L‘argentière-la-Bessée; 20 - 35m; 32; Printemps, Été; 7a 9a; Raide | 20min; Sud; 20m; 35m; 30m; Couenne; 44.789655; 6.528947
+Falaise Rocher Gafouille; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Briançon; 15 - 30m; 60; Printemps, Été, Automne; 4a 8a; Facile | 5min; Nord-Ouest, Ouest; 15m; 30m; 25m; Couenne; 44.880489; 6.646118
+Falaise Rochers du Mollards; France ; Rhone Alpes ; Isère ; Saint-Pierre-de-Chartreuse; 10 - 15m; 40; Printemps, Automne; 4a 7b; Modérée | 10min; Sud; 10m; 15m; 15m; Couenne; 45.341515; 5.833569
+Falaise Roches de Sainte Catherine (Vieux Château); France ; Bourgogne ; Côte d'Or ; Vieux Château; 10 - 40m; 60; Printemps, Automne; 4a 8a; Facile | 10min; Sud, Est; 10m; 40m; 25m; Couenne; 47.475008; 4.128739
+Falaise Romeyer; France ; Rhone Alpes ; Drome ; Romeyer; 20 - 35m; 114; Automne, Hiver; 4c 8c; Modérée | 15min; Sud, Ouest; 20m; 35m; 25m; Couenne; 44.788526; 5.408996
+Falaise Rue des masques; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Guillestres; 20 - 40m; 104; Printemps, Été; 5b 8b; Facile | 5min; Nord, Nord-Ouest; 20m; 40m; 30m; Couenne; 44.669442; 6.641428
+Falaise Rurey; France ; Franche Comté ; Doubs ; Rurey; 22 - 30m; 90; Printemps, Automne, Hiver; 5a 8c; Facile | 3min; Sud, Sud-Ouest; 22m; 30m; 30m; Couenne; 47.092118; 5.983860
+Falaise Russan; France ; Languedoc Roussillon ; Gard ; Russan; 15 - 45m; 250; Printemps, Automne, Hiver; 4a 8c; Facile | 25min; Sud, Sud-Est, Sud-Ouest; 15m; 45m; 25m; Couenne; 43.927125; 4.340867
+Falaise Saffres; France ; Bourgogne ; Côte d'Or ; Saffres; 10 - 35m; 330; Printemps, Automne; 4a 8a; Facile | 10min; Sud; 10m; 35m; 25m; Couenne; 47.371961; 4.581372
+Falaise Saint Ange; France ; Rhone Alpes ; Isère ; Grenoble; 15 - 35m; 30; Printemps, Été, Automne; 6a 9a; Facile | 15min; Est; 15m; 35m; 25m; Couenne; 45.093416; 5.648736
+Falaise Saint Crépin; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; saint crépin; 15 - 30m; 80; Printemps, Automne; 5b 8b; Facile | 10min; Sud-Est; 15m; 30m; 20m; Couenne; 44.714603; 6.602524
+Falaise Saint Egrève; France ; Rhone Alpes ; Isère ; Saint Egrève; 10 - 150m; 204; Printemps, Été, Automne; 4a 8b; Facile | 5min; Sud, Sud-Est, Sud-Ouest, Est, Ouest; 10m; 150m; 20m; Couenne, Voie de plusieurs longueurs; 45.245796; 5.677657
+Falaise Saint Julien; France ; Rhone Alpes ; Drome ; buis les baronnies; 25 - 120m; 180; Printemps, Automne, Hiver; 5a 7c; Raide | 20min; Nord, Sud; 25m; 120m; 90m; Voie de plusieurs longueurs; 44.267421; 5.277063
+Falaise Saint léger du ventoux; France ; Provence Alpes Cote d'Azur ; Vaucluse ; Saint léger du ventoux; 10 - 40m; 450; Printemps, Été, Automne, Hiver; 6a 9a; Facile | 15min; Nord, Sud, Sud-Ouest, Est, Ouest; 10m; 40m; 25m; Couenne; 44.21427 ; 5.250822
+Falaise Saint Paul de Varces; France ; Rhone Alpes ; Isère ; Saint Paul de Varces; 40 - 40m; 23; Printemps, Automne; 6a 7b; Facile | 15min; Sud, Sud-Ouest; 40m; 40m; 40m; Couenne; 45.049937; 5.631608
+Falaise Saint-Bauzille-de-Montmel; France ; Languedoc Roussillon ; Hérault ; Saint-Bauzille-de-Montmel; 10 - 25m; 220; Printemps, Automne, Hiver; 4a 8b; Modérée | 10min; Sud, Sud-Est, Sud-Ouest; 10m; 25m; 20m; Couenne; 43.775267; 3.948639
+Falaise Saint-Pierre-Dels-Forcats; France ; Languedoc Roussillon ; Pyrénées orientales ; Mont-Louis; 5 - 25m; 20; Printemps, Automne; 4a 6c; Facile | 1min; Sud, Sud-Est, Est; 5m; 25m; 20m; Couenne; 42.488782; 2.121257
+Falaise Sainte Croix; France ; Rhone Alpes ; Drome ; Sainte Croix; 15 - 20m; 21; Automne, Hiver; 5c 8c; Modérée | 10min; Sud; 15m; 20m; 20m; Couenne; 44.765272; 5.290539
+Falaise Sainte Victoire – Four Solaire; France ; Provence Alpes Cote d'Azur ; Bouches du Rhone ; Saint Antonin sur Bayon; 30 - 80m; 25; Printemps, Automne, Hiver; 5a 7a; Facile | 25min; Sud, Sud-Ouest; 30m; 80m; 55m; Couenne, Voie de plusieurs longueurs; 43.527525; 5.594251
+Falaise Seynes; France ; Languedoc Roussillon ; Gard ; Seynes; 15 - 40m; 340; Printemps, Automne, Hiver; 4a 8c; Modérée | 15min; Sud; 15m; 40m; 30m; Couenne; 44.117356; 4.256023
+Falaise Sibada; France ; Midi Pyrénées ; Ariège ; Niaux; 10 - 25m; 45; Printemps, Automne; 6a 8a; Facile | 5min; Ouest; 10m; 25m; 15m; Couenne; 42.806476; 1.593049
+Falaise Surgy; France ; Bourgogne ; Nièvre ; surgy; 10 - 35m; 350; Printemps, Été, Automne; 4a 8c; Facile | 5min; Sud, Sud-Est, Sud-Ouest, Est; 10m; 35m; 25m; Couenne; 47.494852; 3.507426
+Falaise Syratu; France ; Franche Comté ; Doubs ; Mouthier-hautepierre; 25 - 90m; 45; Printemps, Automne; 6b 9a; Modérée | 5min; Sud; 25m; 90m; 35m; Couenne, Voie de plusieurs longueurs; 47.036497; 6.286826
+Falaise Terre Sacrée; France ; Corse ;  ; Ajaccio; 10 - 20m; 25; Printemps, Automne, Hiver; 4a 7c; Facile | 10min; Sud; 10m; 20m; 20m; Couenne; 41.917998; 8.648482
+Falaise Tina dalle; France ; Rhone Alpes ; Drome ; Choranche; 15 - 50m; 94; Automne; 4a 8b; Facile | 5min; Sud, Sud-Est; 15m; 50m; 25m; Couenne; 45.080026; 5.371268
+Falaise Tour Saint-Martin; France ; Rhone Alpes ; Ardèche ; Viviers; 15 - 50m; 20; Printemps, Automne; 4a 7a; Modérée | 5min; Sud; 15m; 50m; 25m; Couenne, Voie de plusieurs longueurs; 44.481894; 4.663707
+Falaise Trassouet; France ; Midi Pyrénées ; Hautes Pyrénées ; Sainte-Marie-de-Campan; 15 - 40m; 100; Printemps, Automne; 4b 8b; Facile | 5min; Sud-Ouest; 15m; 40m; 25m; Couenne; 42.991692; 0.228213
+Falaise trou des fées; France ; Provence Alpes Cote d'Azur ; Var ; Cabasse; 30 - 45m; 5; Printemps, Été, Automne; 4b 5c; Facile | 5min; Sud-Ouest; 30m; 45m; 37m; Bloc; 43.442120; 6.223610
+Falaise Troubat; France ; Midi Pyrénées ; Hautes Pyrénées ; Troubat; 10 - 80m; 100; Printemps, Automne; 5b 8b; Facile | 10min; Sud-Ouest, Ouest; 10m; 80m; 30m; Couenne; 42.975641; 0.586373
+Falaise Troubat (La Carrière); France ; Midi Pyrénées ; Hautes Pyrénées ; Troubat; 10 - 30m; 50; Printemps, Automne, Hiver; 4b 7b; Facile | 5min; Sud-Ouest; 10m; 30m; 20m; Couenne; 42.972458; 0.588358
+Falaise Ubrieux Lou Passo; France ; Rhone Alpes ; Drome ; BUIS LES BARONNIES; 10 - 70m; 250; Printemps, Automne, Hiver; 4a 8c; Facile | 5min; Sud, Sud-Est, Sud-Ouest, Est; 10m; 70m; 30m; Couenne, Voie de plusieurs longueurs; 44.293261; 5.280558
+Falaise Valbelle; France ; Provence Alpes Cote d'Azur ; Alpes de haute Provence ; valbelle; 20 - 100m; 60; Printemps, Été, Automne; 5c 8b; Raide | 45min; Nord-Ouest; 20m; 100m; 30m; Couenne; 44.137919; 5.850624
+Falaise Valcroissant; France ; Rhone Alpes ; Isère ; Die; 12 - 45m; 30; Printemps, Été, Automne; 4a 7a; Facile | 5min; Est; 12m; 45m; 20m; Couenne; 44.742072; 5.424626
+Falaise Vall de Quers; France ; Languedoc Roussillon ; Pyrénées orientales ; Prats-de-Mollo-la-Preste; 25 - 60m; 40; Printemps, Automne; 4c 7c; Facile | 10min; Sud; 25m; 60m; 25m; Couenne; 42.368738; 2.467020
+Falaise Ventavon; France ; Provence Alpes Cote d'Azur ; Hautes Alpes ; Ventavon - Le Villard; 20 - 35m; 100; Printemps, Automne; 5c 8b; Modérée | 50min; Sud; 20m; 35m; 28m; Couenne; 44.402752; 5.914809
+Falaise Vergisson; France ; Bourgogne ; Saone et Loire ; Vergisson; 15 - 30m; 100; Printemps, Automne; 4c 8a; Facile | 10min; Sud, Sud-Ouest; 15m; 30m; 25m; Couenne; 46.314257; 4.715752
+Falaise Verosvres; France ; Bourgogne ; Saone et Loire ; Beaubery; 2 - 5m; 100; Printemps, Automne; 4b 8a; Facile | 8min; Toutes; 2m; 5m; 4m; Bloc; 46.413681; 4.417498
+Falaise Volx; France ; Provence Alpes Cote d'Azur ; Alpes de haute Provence ; Volx; 15 - 25m; 160; Printemps, Automne, Hiver; 4c 8c; Facile | 4min; Sud-Est; 15m; 25m; 20m; Couenne; 43.881729; 5.837294
+Falaise Voreppe; France ; Rhone Alpes ; Isère ; Voreppe; 20 - 50m; 48; Printemps, Automne; 6b 8a; Modérée | 25min; Sud; 20m; 50m; 40m; Couenne; 45.316577; 5.639591
+Falaise trou des fées; France ; Provence Alpes Cote d'Azur ; Var ; Cabasse; 30 - 45m; 5; Printemps, Été, Automne; 4b 5c; Facile | 5min; Sud-Ouest; 30m; 45m; 37m; Bloc; 43.442120; 6.223610
+Falaise Combe de l’ermitage; France ; Provence Alpes Cote d'Azur ; Vaucluse ; Villes-sur-Auzon; 20 - 30m; 83; Printemps, Automne, Hiver; 4c 8a; Facile | 5min; Sud, Sud-Est; 20m; 30m; 25m; Couenne; 44.062182; 5.252294
+Falaise La Montagne; La Réunion ;  ;  ; Saint Denis de la Réunion; 8 - 20m; 60; Printemps, Automne, Hiver; 4a 7c; Facile | 10min; Nord, Nord-Est, Est; 8m; 20m; 15m; Couenne; ; - 55.43425
+Falaise le Langenfels; France ; Alsace ; Bas Rhin ; hirschthal; 10 - 50m; 101; Été; 5a 8a; Modérée; Sud; 10m; 50m; 30m; Couenne; 49.049148; 7.776131
+Falaise La pierre du Quart (pierre de carré); France ; Rhone Alpes ; Savoie ; Chindrieux; 20 - 30m; 70; Printemps, Été, Automne, Hiver; 4c 8b; Modérée | 10min; Nord-Ouest, Sud, Sud-Ouest; 20m; 30m; 25m; Couenne; 45.786143; 5.863550
